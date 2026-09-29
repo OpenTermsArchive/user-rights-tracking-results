@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T22:38:28.797Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "policy",
+        "fetch": "https://humanrights.fb.com/policy/",
+        "select": "main",
+        "remove": [
+          "[role=\"img\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "47ba8ea835b523c3563d0a6132c9d534076080e4"
+      }
+    ]
+  }
+}
