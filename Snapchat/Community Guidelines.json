@@ -1,0 +1,218 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:08:14.407Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "policy-policy-community-guidelines",
+        "fetch": "https://values.snap.com/policy/policy-community-guidelines?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "1262fcd98691f9a87f2213cef8c8300d13bee23c"
+      },
+      {
+        "id": "privacy-transparency-community-guidelines-severe-harm",
+        "fetch": "https://values.snap.com/privacy/transparency/community-guidelines/severe-harm?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "6df34d7006a5e58422338e58c0629d4f919095b4"
+      },
+      {
+        "id": "privacy-transparency-community-guidelines-usernames-and-displaynames",
+        "fetch": "https://values.snap.com/privacy/transparency/community-guidelines/usernames-and-displaynames?lang=en-US",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "e26b8d766071c7d39377c27d83ea00270bbd3250"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0cce011a4e2a7efbe034772a7fc3e04057448c60"
+      },
+      {
+        "id": "policy-policy-community-guidelines-sexual-content",
+        "fetch": "https://values.snap.com/policy/policy-community-guidelines/sexual-content?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "002e468ffad1e197cbc9c651c54f069ff5cd77c0"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-sexual-content",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/sexual-content?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "7c1f82dbed46f764de15fdc6d119916434fa3e73"
+      },
+      {
+        "id": "policy-policy-community-guidelines-threats-violence-harm",
+        "fetch": "https://values.snap.com/policy/policy-community-guidelines/threats-violence-harm?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "bc70b6093ba6f35882aa8dd93f25e3289b2cbb3b"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-disturbing-violent-content",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/disturbing-violent-content?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3f2aace4b4eb0499be3d5412377933426303ad7e"
+      },
+      {
+        "id": "policy-policy-community-guidelines-hateful-content-terrorism-violent-extremism",
+        "fetch": "https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2cf53bc7991ac59d1de2c04c86fa06b32b934596"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-hateful-content-terrorism-violent-extremism",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/hateful-content-terrorism-violent-extremism?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "17bc62bc4ca23633477118c19c3b6ff4e22873c7"
+      },
+      {
+        "id": "policy-policy-community-guidelines-harassment-bullying",
+        "fetch": "https://values.snap.com/policy/policy-community-guidelines/harassment-bullying?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "962d8d2a41d1b3668a41544a3babd79674bc3ccc"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-harassment-bullying",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/harassment-bullying?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "01b0c9990060ba6b819e6b086516ac9319684b6f"
+      },
+      {
+        "id": "policy-policy-community-guidelines-illegal-regulated-activities",
+        "fetch": "https://values.snap.com/policy/policy-community-guidelines/illegal-regulated-activities?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "8482ecdf6150bf7f1b9d22fb6defc88e96a612fb"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-illegal-regulated-activities",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/illegal-regulated-activities?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "bde65d2b7adbfc7faf68bdb709399e56c98e1ebf"
+      },
+      {
+        "id": "policy-policy-community-guidelines-harmful-false-deceptive-practices",
+        "fetch": "https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-practices?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "c168f9265c9fbfb0bf8846aa1dbdaffd77eec8f6"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-false-deceptive-information",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/false-deceptive-information?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0e124b7657218e1ec13c55dcd16e080b1b29f345"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-commercial-content",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/commercial-content?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "c6d9107ecf1bf9ba5afa906f1916d02f71dab6fa"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-quality",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/quality?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "20e99e38f895979ae9df914587219f4f06fe0039"
+      },
+      {
+        "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-public-interest-content",
+        "fetch": "https://values.snap.com/policy/content-guidelines-recommendation-eligibility/recommendation-eligibility/public-interest-content?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "c075119eef7669de02032ef0f3dc4e277150e3a2"
+      }
+    ]
+  }
+}
