@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:07:25.260Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "terms",
+        "fetch": "https://www.snap.com/terms?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9eda99eb39a0ffc2a9cee98db484f73b080a33da"
+      },
+      {
+        "id": "terms-paid-features",
+        "fetch": "https://www.snap.com/terms/paid-features?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "f952125bba48d1f580d86e73c1b4ae31d09c7b03"
+      },
+      {
+        "id": "terms-my-selfie",
+        "fetch": "https://www.snap.com/terms/my-selfie?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "93cb9428a03bb331ba8f66908ba3f009cecaff81"
+      },
+      {
+        "id": "policies-pcd",
+        "fetch": "https://www.snap.com/policies/pcd?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d6cba852d974c5117d60c8d614c9e2754f678202"
+      },
+      {
+        "id": "terms-create-geofilter",
+        "fetch": "https://www.snap.com/terms/create-geofilter?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d08b28108a4f2ff6cfc04319aba4ca0e50dd5996"
+      },
+      {
+        "id": "terms-custom-creative-tools",
+        "fetch": "https://www.snap.com/terms/custom-creative-tools?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "41b7ff63f55f18c127caed0f05f0bba465de67e0"
+      },
+      {
+        "id": "terms-lens-studio-terms",
+        "fetch": "https://www.snap.com/terms/lens-studio-terms?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "072e45087946d5b6622f905e35cccb19ba5c894f"
+      },
+      {
+        "id": "terms-ai-tools",
+        "fetch": "https://www.snap.com/terms/ai-tools?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "5d386944e50a27f504be3d5252e4957d3f79008a"
+      }
+    ]
+  }
+}
