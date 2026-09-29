@@ -1,0 +1,811 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T22:48:38.847Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "policies-ad-standards",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "964ef68d2142a6bed2c3c18c120b55d15bca7870"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-child-sexual-exploitation-abuse-nudity",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/child-sexual-exploitation-abuse-nudity/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3502783e1fb01b07e6e07a5f26e795488d709af4"
+      },
+      {
+        "id": "policies-ad-standards-unacceptable-content-dangerous-orgs-individuals",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/unacceptable-content/dangerous-orgs-individuals/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c8eb5ce522993ded91ded5a57a64572f2640f7f7"
+      },
+      {
+        "id": "policies-ad-standards-unacceptable-content-coordinating-harm-and-promoting-crime",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/unacceptable-content/coordinating-harm-and-promoting-crime/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "64f748798ccb6bb1113d628322511768110bfd5c"
+      },
+      {
+        "id": "policies-ad-standards-unacceptable-content-discriminatory-practices",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/unacceptable-content/discriminatory-practices/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a3f789bdd1f8f593caf22e3c58eb5c900190d85f"
+      },
+      {
+        "id": "policies-ad-standards-unacceptable-content-hateful-conduct",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/unacceptable-content/hateful-conduct/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6ff24e6c73c383e83018d07a52cdcff312efd699"
+      },
+      {
+        "id": "policies-ad-standards-unacceptable-content-human-exploitation",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/unacceptable-content/human-exploitation/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "de7bd566457f234ad9375bfa31a7645440eca225"
+      },
+      {
+        "id": "policies-ad-standards-unacceptable-content-locally-illegal-products-services",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/unacceptable-content/locally-illegal-products-services/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f56edbd1b3185ddc46f6aa4a9ea2d49591a0d1f3"
+      },
+      {
+        "id": "policies-ad-standards-unacceptable-content-misinformation",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/unacceptable-content/misinformation/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b34239b8e1c2cb5b6a511bd0913bd496b2424a3c"
+      },
+      {
+        "id": "policies-ad-standards-unacceptable-content-vaccine-discouragement",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/unacceptable-content/vaccine-discouragement/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "fac76ebacd369a37c0f7752c3bb4ad4f9b4e8e99"
+      },
+      {
+        "id": "policies-ad-standards-deceptive-content-prohibited-commercial-practices",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/deceptive-content/prohibited-commercial-practices/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "88b0f17de4030209cae914facb8dccfd9bd4e658"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-alcohol",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/alcohol/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "16f8595b60cee08faa3ac318169e1248a7972d0f"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-commercial-exploitation-of-crises-and-controversial-events",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/commercial-exploitation-of-crises-and-controversial-events/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b3bf22996ff5c54e203e74a5001b3cae0adb36be"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-dating-ads",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/dating-ads/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b20e355e0614693390bb64fba75fbac9199512db"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-hazardous-goods-materials",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/hazardous-goods-materials/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "27347e60ba6d08ca75cc7b4bc58f9e4a0cde08c9"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-health-wellness",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b760ed4fba4cdd0cbe61a1d6430d194e96a26eaf"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-historical-artifacts",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/historical-artifacts/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "636b82703b6b805d5437994b19e25f6437149cf7"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-bodily-parts-and-fluid",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/bodily-parts-and-fluid/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "dad558e2a17be6dc4294a27e78aca0e01964184a"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-live-endangered-nonendangered-animals",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/live-endangered-nonendangered-animals/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "aec8bd5f0bd3d5e9196ccfef73b1376c1937643f"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-tobacco-related-products",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/tobacco-related-products/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6a0bd2337fc79781f6cc3c15eae8a1c6aa6cbfa0"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-weapons-ammunitions-explosives",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/weapons-ammunitions-explosives/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ff1d0e781f53d1590c0a74c93df9bc01afb01414"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-drugs-pharmaceuticals",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0c786fd2159902dabb3e1a17cf5b9394ddc6d5ff"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-drug-alcohol-addiction-treatment",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drug-alcohol-addiction-treatment/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "936dec4f86aa2fe7ec9b4d94f6c91d3a950ff1ba"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-financial-services",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/financial-services/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "989a9236c22da80e493b075d5c114986a9524bb7"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-cryptocurrency-products-and-services",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/cryptocurrency-products-and-services/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "013944805cc63c72db8f74cebe2ff2fa91978711"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-gambling-games",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/gambling-games/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f63317baa64af758a47c74236298dd2eb0f959c4"
+      },
+      {
+        "id": "policies-ad-standards-restricted-goods-services-prohibited-documents-and-financial-services",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/restricted-goods-services/prohibited-documents-and-financial-services/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "994f8f53f4717275ddaeb680f641f04c70616b7f"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-adult-nudity-and-sexual-activity",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "51251448a5829d8186c7e9ed0fa69faad34f068c"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-adult-sexual-exploitation",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-sexual-exploitation/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "62cc14a8da05fecef9d13144fa90c637239f036c"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-adult-sexual-solicitation-and-sexually-explicit-language",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-sexual-solicitation-and-sexually-explicit-language/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "17e48926f3f64da1a519f486c2e9441e68102108"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-bullying-harassment",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/bullying-harassment/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b95a9244ae688054920a5038e6e65e420eadab47"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-profanity",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/profanity/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3807835680999d8f8ca78f760831c7491508d7db"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-privacy-violations-personal-attributes",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "838ece38a7f9c11c34233cd8957cd070b115ef2b"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-violent-graphic-content",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/violent-graphic-content/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "54baf92e5b7ba70e2ce2c06e796c8dbde995f945"
+      },
+      {
+        "id": "policies-ad-standards-objectionable-content-suicide-selfinjury-eating-disorders",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/objectionable-content/suicide-selfinjury-eating-disorders/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2e048edd66970319e8eab19169cef6d9ffff369b"
+      },
+      {
+        "id": "policies-ad-standards-intellectual-property-infringement-third-party-infringement",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/intellectual-property-infringement/third-party-infringement/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1b8bf42cbe8fa824d5efc9ab0e57c7ee02d6985e"
+      },
+      {
+        "id": "policies-ad-standards-intellectual-property-infringement-Using-Meta-Intellectual-Property-Licenses",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/intellectual-property-infringement/Using-Meta-Intellectual-Property-Licenses/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "aff4fa68aec8e9ea074b3e3cc2d60205f758ede0"
+      },
+      {
+        "id": "policies-ad-standards-SIEP-advertising-SIEP",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/SIEP-advertising/SIEP/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e2700e9cfa44e9d3a0e72d74c67810d2f0c7635f"
+      },
+      {
+        "id": "policies-ad-standards-business-assets-account-integrity",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/business-assets/account-integrity/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "135ce0fa59a530701d1f109194bdb053e84e8588"
+      },
+      {
+        "id": "policies-ad-standards-business-assets-inauthentic-behavior",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/business-assets/inauthentic-behavior/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4d7b2ff15a97a5fae216f1433b2caa23291bcf14"
+      },
+      {
+        "id": "policies-ad-standards-business-assets-Cybersecurity",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/business-assets/Cybersecurity/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ec3118e391f602d7dd8b83f7b317e3f34ccac968"
+      },
+      {
+        "id": "policies-ad-standards-business-assets-spam",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/business-assets/spam/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b99af68862056b9bc9e4f3b745f3ee55f39ef545"
+      },
+      {
+        "id": "policies-ad-standards-business-assets-user-requests",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/business-assets/user-requests/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "024634dc61d9c3324e7bcd83abd438327fff545a"
+      },
+      {
+        "id": "policies-ad-standards-community-standards",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/community-standards/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d29a1f29e1f23dd402bcd1e4d85640b10581a056"
+      },
+      {
+        "id": "business-help-975570072950669",
+        "fetch": "https://www.facebook.com/business/help/975570072950669?id=434838534925385",
+        "select": [
+          "#redesign-headers",
+          "#faq-page"
+        ],
+        "remove": [
+          "#GBMRelatedLinksSideRoot",
+          "#left-sidenav",
+          "[href=\"#\"]",
+          ".img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "_nc_gid",
+              "oh",
+              "oe"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4a2082f5c3fbc18fddeb5554afdd8a69f633ebc4"
+      },
+      {
+        "id": "business-help-399587795372584",
+        "fetch": "https://www.facebook.com/business/help/399587795372584",
+        "select": [
+          "#redesign-headers",
+          "#faq-page"
+        ],
+        "remove": [
+          "#GBMRelatedLinksSideRoot",
+          "#left-sidenav",
+          "[href=\"#\"]",
+          ".img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "_nc_gid",
+              "oh",
+              "oe"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "90fb2a2a7667f827acb18065d4e88db7f926e9ab"
+      }
+    ]
+  }
+}
