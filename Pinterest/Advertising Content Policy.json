@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:07:15.296Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "en-advertising-guidelines",
+        "fetch": "https://policy.pinterest.com/en/advertising-guidelines",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "1b66c4658135a2fd3964d57b5a6882d0c4551cc6"
+      },
+      {
+        "id": "en-ad-data-terms",
+        "fetch": "https://policy.pinterest.com/en/ad-data-terms",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "c15a9a967896c4385f8df3a28bdee750903872cf"
+      },
+      {
+        "id": "en-business-article-lead-ads",
+        "fetch": "https://help.pinterest.com/en/business/article/lead-ads",
+        "select": "article",
+        "mimeType": "text/html",
+        "snapshotId": "bb65e3eb95131248aa349f2f26460b73e50c2dbf"
+      }
+    ]
+  }
+}
