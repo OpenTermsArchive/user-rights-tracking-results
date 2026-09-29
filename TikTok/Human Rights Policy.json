@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:11:18.325Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "safety-en-policies-and-engagement-upholding-human-rights",
+        "fetch": "https://www.tiktok.com/safety/en/policies-and-engagement/upholding-human-rights",
+        "select": [
+          "[class^=\"layout-body-\"]"
+        ],
+        "remove": [
+          "[class^=\"wiki-navigation-content-\"]",
+          "[class^=\"wiki-toc-\"]",
+          "picture",
+          ".sc-bwCtUz"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "068e76ab2f797b29a79397433f994083b586bcd8"
+      }
+    ]
+  }
+}
