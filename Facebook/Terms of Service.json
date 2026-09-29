@@ -1,0 +1,55 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T22:30:25.336Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "legal-terms-plain_text_terms",
+        "fetch": "https://mbasic.facebook.com/legal/terms/plain_text_terms/",
+        "select": [
+          "[role=\"main\"]"
+        ],
+        "remove": [
+          "img",
+          "[href=\"#\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "_nc_gid",
+              "oh"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bb11b9df333d9f61028fb732e21a49b1d03bd33d"
+      },
+      {
+        "id": "legal-eu-ai-terms",
+        "fetch": "https://mbasic.facebook.com/legal/eu-ai-terms",
+        "select": [
+          "[role=\"main\"]"
+        ],
+        "remove": [
+          "img",
+          "[href=\"#\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "_nc_gid",
+              "oh"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e95086a5110131ba22a19002917f5f8532b94545"
+      }
+    ]
+  }
+}
