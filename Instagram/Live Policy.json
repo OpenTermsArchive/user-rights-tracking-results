@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T22:55:48.064Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "help-instagram-163366675115842",
+        "fetch": "https://www.facebook.com/help/instagram/163366675115842/",
+        "select": "[role=\"main\"]",
+        "remove": [
+          "[role=\"navigation\"]",
+          "fieldset",
+          "[aria-label=\"Copy link\"]",
+          "[id=\"Related Articles\" i]",
+          "[data-type=\"hscroll-child\"]",
+          "#help-center-faq-page-container > div > :last-child:has([role=\"button\"][aria-label*=\"Meta AI\"])"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "_nc_gid",
+              "oh",
+              "oe"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0adfae98f0b0d9d99f06e4d0aee406e7290a7277"
+      }
+    ]
+  }
+}
