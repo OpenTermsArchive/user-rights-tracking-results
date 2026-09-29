@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:08:17.836Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "ad-policies",
+        "fetch": "https://www.snap.com/ad-policies?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0ed8413a7b3dd46964a05b1730292cf09fc07326"
+      },
+      {
+        "id": "ad-policies-political",
+        "fetch": "https://www.snap.com/ad-policies/political?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "095f04e385fcfe366d528dca68229b0ceff110b6"
+      }
+    ]
+  }
+}
