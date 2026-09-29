@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T22:49:03.125Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "581066165581870",
+        "fetch": "https://help.instagram.com/581066165581870",
+        "select": [
+          "[role=\"main\"]"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "fieldset",
+          "[id=\"Related Articles\" i]",
+          "[aria-label=\"Copy link\"]",
+          "[aria-hidden=\"true\"]",
+          "[data-type=\"hscroll-child\"]",
+          "#help-center-faq-page-container > div > :last-child:has([role=\"button\"][aria-label*=\"Meta AI\"])"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9190d158765047a628550fe040b8eff9f8eb1d4f"
+      },
+      {
+        "id": "legal-eu-ai-terms",
+        "fetch": "https://www.facebook.com/legal/eu-ai-terms",
+        "select": [
+          {
+            "startBefore": "[role=\"main\"]",
+            "endBefore": "[role=\"separator\"]"
+          }
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "fieldset",
+          "[id=\"Related Articles\" i]",
+          "[aria-label=\"Copy link\"]",
+          "[aria-hidden=\"true\"]",
+          "[data-type=\"hscroll-child\"]",
+          "#help-center-faq-page-container > div > :last-child:has([role=\"button\"][aria-label*=\"Meta AI\"])"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "30eb970e1dc4b38573e073c0e8d6d5a0bf835390"
+      }
+    ]
+  }
+}
