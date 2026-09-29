@@ -1,0 +1,273 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:07:03.981Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "legal-ads-policy",
+        "fetch": "https://www.linkedin.com/legal/ads-policy",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "651ca1bc4e4914bee2418236b96c3a2df3e760e3"
+      },
+      {
+        "id": "help-lms-answer-12412",
+        "fetch": "https://www.linkedin.com/help/lms/answer/12412",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "af6c99d9508b53fdf71e9c69fc8127a231bb17fb"
+      },
+      {
+        "id": "help-lms-answer-a1592695",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a1592695",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "ecd569011714ab2ce82917b342721c3466907bb1"
+      },
+      {
+        "id": "help-lms-answer-a8013156",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a8013156",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "cfe801b69c0adb94a9f564f7e6682b431e20dcad"
+      },
+      {
+        "id": "help-lms-answer-a7125167",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a7125167",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "46bb66e96dbe300685fa34d24fbb4632122e97c6"
+      },
+      {
+        "id": "help-lms-answer-a1320991",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a1320991",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "abdaec8cd60684b200a58ea614c7ece4da358502"
+      },
+      {
+        "id": "help-lms-answer-a9357023",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a9357023",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "98cacbf65a17aa8bccad5c42eaac8ee61eb098c4"
+      },
+      {
+        "id": "help-lms-answer-a6238495",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a6238495",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9fde80550ba9fee113fd1634a3daac739281162b"
+      },
+      {
+        "id": "help-lms-answer-a9401025",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a9401025",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "428f5db6b08a2da89049e969922e3445b7c03a60"
+      },
+      {
+        "id": "help-lms-answer-a427089",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a427089",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d0335f3a0f493fe1ce5b944cc09a5661cd0e6c63"
+      },
+      {
+        "id": "help-lms-answer-a7171708",
+        "fetch": "https://www.linkedin.com/help/lms/answer/a7171708",
+        "select": "[role=\"main\"]",
+        "remove": [
+          ".article-details-content__aside",
+          "#helpfulness-rating",
+          ".banner__image-container",
+          ".component-standaloneImage",
+          ".article-content__video",
+          ".machine-translation",
+          "[data-test-selector=\"relativeTime-container\"]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "e",
+              "t"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9db21fe8d503efeae68fa27f33ead4ab6346e97c"
+      }
+    ]
+  }
+}
