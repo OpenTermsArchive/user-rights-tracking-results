@@ -1,0 +1,651 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T22:55:34.511Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "policies-community-standards",
+        "fetch": "https://transparency.meta.com/policies/community-standards/",
+        "select": "main",
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "922f4342c5861413f719844df6e810466b8d96b8"
+      },
+      {
+        "id": "policies-community-standards-violence-incitement",
+        "fetch": "https://transparency.meta.com/policies/community-standards/violence-incitement/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0bf8bf580a757189412854abc55ad1c187eb978b"
+      },
+      {
+        "id": "policies-community-standards-dangerous-individuals-organizations",
+        "fetch": "https://transparency.meta.com/policies/community-standards/dangerous-individuals-organizations/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "19fcf6466b812f97f6352f4856f4dcd211c17b81"
+      },
+      {
+        "id": "policies-community-standards-coordinating-harm-publicizing-crime",
+        "fetch": "https://transparency.meta.com/policies/community-standards/coordinating-harm-publicizing-crime/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8622e8b4a1d3d96a9c2c6d0ac25f60a62cbb8bc6"
+      },
+      {
+        "id": "policies-community-standards-regulated-goods",
+        "fetch": "https://transparency.meta.com/policies/community-standards/regulated-goods/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3e033ece71bd043cd90dc36ee28eb17387ff4ea2"
+      },
+      {
+        "id": "policies-community-standards-prohibited-commercial-practices",
+        "fetch": "https://transparency.meta.com/policies/community-standards/prohibited-commercial-practices/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "415e3262d138d40beb9e99264ab524af6cb0bda6"
+      },
+      {
+        "id": "policies-community-standards-suicide-self-injury",
+        "fetch": "https://transparency.meta.com/policies/community-standards/suicide-self-injury/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8fd452e90d78e2c9c0f954563b889e38e52988a4"
+      },
+      {
+        "id": "policies-community-standards-child-sexual-exploitation-abuse-nudity",
+        "fetch": "https://transparency.meta.com/policies/community-standards/child-sexual-exploitation-abuse-nudity/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "60e5ffbb067d7e03210cf131db154123ff379769"
+      },
+      {
+        "id": "policies-community-standards-sexual-exploitation-adults",
+        "fetch": "https://transparency.meta.com/policies/community-standards/sexual-exploitation-adults/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0bd75f427d49bbbc05a6969a1d04c74d7b1a6be9"
+      },
+      {
+        "id": "policies-community-standards-bullying-harassment",
+        "fetch": "https://transparency.meta.com/policies/community-standards/bullying-harassment/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e0ab10a89dd7f68b5371e2f273778e87a8364604"
+      },
+      {
+        "id": "policies-community-standards-human-exploitation",
+        "fetch": "https://transparency.meta.com/policies/community-standards/human-exploitation/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "78545fd6c7a4ef79ccdb206e15ebfddaeb902c8d"
+      },
+      {
+        "id": "policies-community-standards-privacy-violations-image-privacy-rights",
+        "fetch": "https://transparency.meta.com/policies/community-standards/privacy-violations-image-privacy-rights/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e8330fc23df8eb044a3fbee2b74f073be414eb01"
+      },
+      {
+        "id": "policies-community-standards-hate-speech",
+        "fetch": "https://transparency.meta.com/policies/community-standards/hate-speech/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e1ae8b8a21e152657678274b6c48dba16b10e1ac"
+      },
+      {
+        "id": "policies-community-standards-violent-graphic-content",
+        "fetch": "https://transparency.meta.com/policies/community-standards/violent-graphic-content/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6934ba1b498b76536e2c7de6b9aae85e6dd0f584"
+      },
+      {
+        "id": "policies-community-standards-adult-nudity-sexual-activity",
+        "fetch": "https://transparency.meta.com/policies/community-standards/adult-nudity-sexual-activity/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "faf909d60303ac9e6f2b2801f340b4f349c99fd6"
+      },
+      {
+        "id": "policies-community-standards-sexual-solicitation",
+        "fetch": "https://transparency.meta.com/policies/community-standards/sexual-solicitation/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b133c1ddf1dbcb84d3e2115210cbde155413484b"
+      },
+      {
+        "id": "policies-community-standards-account-integrity",
+        "fetch": "https://transparency.meta.com/policies/community-standards/account-integrity/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "862ad697d0e1bacb04fd09c4bf603fa83416b00a"
+      },
+      {
+        "id": "policies-community-standards-authentic-identity-representation",
+        "fetch": "https://transparency.meta.com/policies/community-standards/authentic-identity-representation/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "94987e862a527d4f1a45dc46651ff100006084a0"
+      },
+      {
+        "id": "policies-community-standards-spam",
+        "fetch": "https://transparency.meta.com/policies/community-standards/spam/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "381126afc728ff351fc706b191a07c710dc22bd5"
+      },
+      {
+        "id": "policies-community-standards-cybersecurity",
+        "fetch": "https://transparency.meta.com/policies/community-standards/cybersecurity/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b23cd165609187c0ed773ac622fd2ea42ee1b3ea"
+      },
+      {
+        "id": "policies-community-standards-inauthentic-behavior",
+        "fetch": "https://transparency.meta.com/policies/community-standards/inauthentic-behavior/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2b8434e6fcf140efefdac3635ba918c3aa6f3cc2"
+      },
+      {
+        "id": "policies-community-standards-misinformation",
+        "fetch": "https://transparency.meta.com/policies/community-standards/misinformation/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "23dbf96c9924d1e699c73a1fa480ee9c0b5a24ce"
+      },
+      {
+        "id": "policies-community-standards-memorialization",
+        "fetch": "https://transparency.meta.com/policies/community-standards/memorialization/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d758d856151722fe3e6c950e37777b84200e45d3"
+      },
+      {
+        "id": "policies-community-standards-intellectual-property",
+        "fetch": "https://transparency.meta.com/policies/community-standards/intellectual-property/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "012b0bc1785a53bb71310b66070f252e4527cdb6"
+      },
+      {
+        "id": "policies-community-standards-meta-intellectual-property",
+        "fetch": "https://transparency.meta.com/policies/community-standards/meta-intellectual-property/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "918b563792d193ba6db7d8b3d23cbc197fb7f40a"
+      },
+      {
+        "id": "policies-community-standards-additional-protection-minors",
+        "fetch": "https://transparency.meta.com/policies/community-standards/additional-protection-minors/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d28306c0bc926d688cb911ce02e201c57ef99bb6"
+      },
+      {
+        "id": "policies-community-standards-locally-illegal-products-services",
+        "fetch": "https://transparency.meta.com/policies/community-standards/locally-illegal-products-services/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8e4ad298c8d7577fe7100ea7eea21535cfaca27b"
+      },
+      {
+        "id": "policies-community-standards-user-requests",
+        "fetch": "https://transparency.meta.com/policies/community-standards/user-requests/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
+        ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f9ef85dd1ca53398190ccc1e4a482d6b7fc99934"
+      }
+    ]
+  }
+}
