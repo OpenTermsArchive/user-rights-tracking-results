@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:06:56.484Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "en-us-corporate-responsibility-human-rights-statement",
+        "fetch": "https://www.microsoft.com/en-us/corporate-responsibility/human-rights-statement#tab-introduction",
+        "select": "main",
+        "remove": [
+          ".card-background",
+          ".tab-arrows",
+          ".socialfollow",
+          ".feature-card",
+          "[data-focus=\"back-to-tabs\"]"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "c7979907dc6e6891477e7ddebd842b2c60b3652d"
+      }
+    ]
+  }
+}
