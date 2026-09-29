@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T22:55:59.230Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "policy",
+        "fetch": "https://humanrights.fb.com/policy/",
+        "select": "main",
+        "remove": [
+          "[role=\"img\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d3f62910e77cb4c8015ee426c1733b47a78beffb"
+      }
+    ]
+  }
+}
