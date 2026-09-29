@@ -1,0 +1,162 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:07:41.544Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "privacy-privacy-center",
+        "fetch": "https://values.snap.com/privacy/privacy-center?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0b337574ea140b810f055ccba2340551afeb7a0e"
+      },
+      {
+        "id": "privacy-privacy-principles",
+        "fetch": "https://values.snap.com/privacy/privacy-principles?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "5fab1c406a6339513a1bef8222eb4925ff28badd"
+      },
+      {
+        "id": "privacy-privacy-by-product",
+        "fetch": "https://values.snap.com/privacy/privacy-by-product?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d9fef792f08fb6ed9895c28879f3095c58a848e1"
+      },
+      {
+        "id": "privacy-privacy-policy",
+        "fetch": "https://values.snap.com/privacy/privacy-policy?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "6ab44d526a1588112aa0bff7398df7ec6ade6344"
+      },
+      {
+        "id": "privacy-your-information",
+        "fetch": "https://values.snap.com/privacy/your-information?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3700ec19b590b8f4238d245106034b0f42b1348d"
+      },
+      {
+        "id": "privacy-teens",
+        "fetch": "https://values.snap.com/privacy/teens?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "84f5f05a0b0032fcb7c0f1bad6dc93aa53a7e838"
+      },
+      {
+        "id": "privacy-ads-privacy",
+        "fetch": "https://values.snap.com/privacy/ads-privacy?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "b67e974767827cfaeed98597c34944a213eb2363"
+      },
+      {
+        "id": "privacy-privacy-through-security",
+        "fetch": "https://values.snap.com/privacy/privacy-through-security?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "c46dff813a7aaa678f6206dce0c40ac0501909cd"
+      },
+      {
+        "id": "privacy-privacy-policy-spectacles-supplemental-privacy-policy",
+        "fetch": "https://values.snap.com/privacy/privacy-policy/spectacles-supplemental-privacy-policy?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "f30c5aa979593accc0c010a4971845596604d6dc"
+      },
+      {
+        "id": "privacy-privacy-policy-eea-uk-privacy-notice",
+        "fetch": "https://values.snap.com/privacy/privacy-policy/eea-uk-privacy-notice?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "5a005f9c7c021e76f7b945d9b9c63ec4fcaaddc7"
+      },
+      {
+        "id": "terms-personal-data",
+        "fetch": "https://www.snap.com/terms/personal-data?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "ba27fce21805a40d499d9790222d534566422b52"
+      },
+      {
+        "id": "terms-standard-contractual-clauses",
+        "fetch": "https://www.snap.com/terms/standard-contractual-clauses?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "b2d66eb99a4d3ad3daa61346cea7ae88d1b8b7da"
+      },
+      {
+        "id": "terms-eea-c-c-scc",
+        "fetch": "https://www.snap.com/terms/eea-c-c-scc?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "bd3c0b3a503c1d40ccf9c731d5d4f070635cc95d"
+      },
+      {
+        "id": "hc-en-gb-articles-22535044112532-Learn-About-How-Snap-Uses-Data",
+        "fetch": "https://help.snapchat.com/hc/en-gb/articles/22535044112532-Learn-About-How-Snap-Uses-Data?lang=en-GB",
+        "select": ".article-wrapper",
+        "remove": [
+          ".breadcrumbs"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "7fcd278d5c0fd6236e1c45f41a481d50956d1e52"
+      }
+    ]
+  }
+}
