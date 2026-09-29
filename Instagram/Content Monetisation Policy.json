@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T22:56:25.245Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "2635536099905516",
+        "fetch": "https://help.instagram.com/2635536099905516",
+        "select": [
+          "[role=\"main\"]"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "fieldset",
+          "[id=\"Related Articles\" i]",
+          "[aria-label=\"Copy link\"]",
+          "[data-type=\"hscroll-child\"]",
+          "#help-center-faq-page-container > div > :last-child:has([role=\"button\"][aria-label*=\"Meta AI\"])"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f276e792b3e400be1cebe5cfdcfc67237c6aa647"
+      },
+      {
+        "id": "512371932629820",
+        "fetch": "https://help.instagram.com/512371932629820",
+        "select": [
+          "[role=\"main\"]"
+        ],
+        "remove": [
+          "[role=\"navigation\"]",
+          "fieldset",
+          "[id=\"Related Articles\" i]",
+          "[aria-label=\"Copy link\"]",
+          "[data-type=\"hscroll-child\"]",
+          "#help-center-faq-page-container > div > :last-child:has([role=\"button\"][aria-label*=\"Meta AI\"])"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b63c21023a4caa291e440fa2e64496887144d499"
+      }
+    ]
+  }
+}
