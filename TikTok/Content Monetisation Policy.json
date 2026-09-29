@@ -1,0 +1,125 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:12:55.674Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-page-global-rewards-policy-eea-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/rewards-policy-eea/en?region=IE",
+        "select": "#policy-card",
+        "remove": [
+          ".lang-selection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5991a52908f7ee87ebcda70209af6c94b72f718e"
+      },
+      {
+        "id": "legal-page-eea-virtual-items-en",
+        "fetch": "https://www.tiktok.com/legal/page/eea/virtual-items/en?region=IE",
+        "select": "#policy-card",
+        "remove": [
+          ".lang-selection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3e3737a6a28668f28ee97cc5e9550de58da2b0ec"
+      },
+      {
+        "id": "legal-page-global-tiktok-creator-rewards-program-eea-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/tiktok-creator-rewards-program-eea/en?region=IE",
+        "select": "#policy-card",
+        "remove": [
+          ".lang-selection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "379d0ab6ebe515dc72ab7699b6dee990f3dd3704"
+      },
+      {
+        "id": "legal-page-global-tiktok-creativity-program-beta-terms-eea-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/tiktok-creativity-program-beta-terms-eea/en?region=IE",
+        "select": "#policy-card",
+        "remove": [
+          ".lang-selection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a02645e68a831691dfb7a9d438c9883bc99f23f1"
+      },
+      {
+        "id": "legal-page-global-bc-policy-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/bc-policy/en?region=IE",
+        "select": "#policy-card",
+        "remove": [
+          ".lang-selection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c6550c7cb18c59b83a2fba48af74ad1a3a354c3d"
+      },
+      {
+        "id": "legal-page-global-tiktok-creator-fund-terms-eu-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/tiktok-creator-fund-terms-eu/en?region=IE",
+        "select": "#policy-card",
+        "remove": [
+          ".lang-selection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "477aa3b256a94e5d109bdc7912bd41fb4aa9a885"
+      },
+      {
+        "id": "live-creators-en-US-rules_and_guidance-live_monetization_guidelines",
+        "fetch": "https://www.tiktok.com/live/creators/en-US/rules_and_guidance/live_monetization_guidelines",
+        "select": "#content-root",
+        "remove": [
+          ".lang-selection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bbf7b0973097bb397146d8f4baa14c6d06c1d04b"
+      },
+      {
+        "id": "creator-academy-en-article-creator-code-of-conduct",
+        "fetch": "https://www.tiktok.com/creator-academy/en/article/creator-code-of-conduct",
+        "select": "#academyArticleMainBody:has(span[class*=\"Fira_Mono\"]:last-child > span:not(:empty))",
+        "remove": [
+          "span[class*=\"Fira_Mono\"]:first-child"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b3515d43b0b042ba8f85e96a2793ae4e5d9ca431"
+      },
+      {
+        "id": "en-business-and-creator-creator-and-business-accounts-promoting-a-brand-product-or-service",
+        "fetch": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service",
+        "select": [
+          "[class*=\"main_title\"]",
+          "[class*=\"rt_root\"]"
+        ],
+        "remove": [
+          "[id^=\"anchor\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e6400b6780b01f26879b5e5672c688998859de7d"
+      },
+      {
+        "id": "en-business-and-creator-creator-and-business-accounts-commercial-use-of-music-on-tiktok",
+        "fetch": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/commercial-use-of-music-on-tiktok",
+        "select": [
+          "[class*=\"main_title\"]",
+          "[class*=\"rt_root\"]"
+        ],
+        "remove": [
+          ".lang-selection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3feea6e391dfdbf612e6dfca4e1aeca14352c286"
+      }
+    ]
+  }
+}
