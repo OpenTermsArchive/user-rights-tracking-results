@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:07:10.494Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "en-community-guidelines",
+        "fetch": "https://policy.pinterest.com/en/community-guidelines",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "47cf6cd7b76ee7d393cf94836b84b03195f3a22a"
+      },
+      {
+        "id": "en-enforcement",
+        "fetch": "https://policy.pinterest.com/en/enforcement",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "65cff415427b88f16e4df516a1b6252977adda34"
+      }
+    ]
+  }
+}
