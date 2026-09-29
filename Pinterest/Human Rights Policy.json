@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:07:11.615Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "369458543-files-governance_doc-human-rights-statement",
+        "fetch": "https://s204.q4cdn.com/369458543/files/governance_doc/human-rights-statement.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "5a62f7a19854b8929b6e924cd581263327ad1d73"
+      }
+    ]
+  }
+}
