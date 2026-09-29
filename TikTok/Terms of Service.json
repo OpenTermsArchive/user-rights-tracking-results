@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:08:28.921Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-page-eea-terms-of-service-en",
+        "fetch": "https://www.tiktok.com/legal/page/eea/terms-of-service/en?region=IE",
+        "select": "#policy-card",
+        "remove": [
+          ".lang-selection"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "188d5287abaff504d7bbbe01458a7f3a7de3cf07"
+      }
+    ]
+  }
+}
