@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-29T23:08:15.083Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "privacy-transparency-community-guidelines-human-rights",
+        "fetch": "https://values.snap.com/privacy/transparency/community-guidelines/human-rights?lang=en-GB",
+        "select": ".sdsm-page",
+        "remove": [
+          "#summary",
+          ".sdsm-media-wrapper"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "67a7bc1867484cdcb9425e31d419b1e9fe614649"
+      }
+    ]
+  }
+}
