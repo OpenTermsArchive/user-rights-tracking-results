@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-09-30T11:18:41.635Z",
+    "date": "2026-09-30T23:07:53.036Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
         "remove": [
           ".lang-selection"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b3dd6058e3c16f3105bba4b23a51c1fe1b436df4"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.tiktok.com/legal/page/eea/terms-of-service/en?region=IE'"
     ]
   }
 }
