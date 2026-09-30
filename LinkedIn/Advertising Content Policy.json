@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:07:03.981Z",
+    "date": "2026-09-30T11:05:57.195Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -15,7 +15,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -26,7 +27,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "651ca1bc4e4914bee2418236b96c3a2df3e760e3"
+        "snapshotId": "b99bfcbc3e59657f0cf948f81c8a6278feb8d4d1"
       },
       {
         "id": "help-lms-answer-12412",
@@ -39,7 +40,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -50,7 +52,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "af6c99d9508b53fdf71e9c69fc8127a231bb17fb"
+        "snapshotId": "279913d12c633bec481fc5947dbeeda801132c45"
       },
       {
         "id": "help-lms-answer-a1592695",
@@ -63,7 +65,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -74,7 +77,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "ecd569011714ab2ce82917b342721c3466907bb1"
+        "snapshotId": "02f3961a0c5d456c7194cba93093bbe75ac2413b"
       },
       {
         "id": "help-lms-answer-a8013156",
@@ -87,7 +90,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -98,7 +102,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "cfe801b69c0adb94a9f564f7e6682b431e20dcad"
+        "snapshotId": "2649579f9c7efb16d825eae2569d752e1d7634da"
       },
       {
         "id": "help-lms-answer-a7125167",
@@ -111,7 +115,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -122,7 +127,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "46bb66e96dbe300685fa34d24fbb4632122e97c6"
+        "snapshotId": "562c46c1fa983d295e6bb1c92d09a254b58f2f50"
       },
       {
         "id": "help-lms-answer-a1320991",
@@ -135,7 +140,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -146,7 +152,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "abdaec8cd60684b200a58ea614c7ece4da358502"
+        "snapshotId": "53690f38c538036c728c91b77d5c4b5892a12984"
       },
       {
         "id": "help-lms-answer-a9357023",
@@ -159,7 +165,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -170,7 +177,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "98cacbf65a17aa8bccad5c42eaac8ee61eb098c4"
+        "snapshotId": "23eaaedbf8cc3a43085f2c883e9dcb694a4cc75c"
       },
       {
         "id": "help-lms-answer-a6238495",
@@ -183,7 +190,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -194,7 +202,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "9fde80550ba9fee113fd1634a3daac739281162b"
+        "snapshotId": "f0fc8c853f48f940a0550171f1a0ba014b00f667"
       },
       {
         "id": "help-lms-answer-a9401025",
@@ -207,7 +215,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -218,7 +227,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "428f5db6b08a2da89049e969922e3445b7c03a60"
+        "snapshotId": "f4e8648774f2af6e66dcdc6d1a1c96e5dd594187"
       },
       {
         "id": "help-lms-answer-a427089",
@@ -231,7 +240,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -242,7 +252,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "d0335f3a0f493fe1ce5b944cc09a5661cd0e6c63"
+        "snapshotId": "4db130284f58734d700ea133a8bbf15fc582316e"
       },
       {
         "id": "help-lms-answer-a7171708",
@@ -255,7 +265,8 @@
           ".component-standaloneImage",
           ".article-content__video",
           ".machine-translation",
-          "[data-test-selector=\"relativeTime-container\"]"
+          "[data-test-selector=\"relativeTime-container\"]",
+          ".people-also-viewed"
         ],
         "filter": [
           {
@@ -266,7 +277,7 @@
           }
         ],
         "mimeType": "text/html",
-        "snapshotId": "9db21fe8d503efeae68fa27f33ead4ab6346e97c"
+        "snapshotId": "909a926aac4502d9f71eb87a26f8acf3c417d5b2"
       }
     ]
   }
