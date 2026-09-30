@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T22:48:38.847Z",
+    "date": "2026-09-30T10:47:47.088Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -17,9 +17,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "964ef68d2142a6bed2c3c18c120b55d15bca7870"
+        "snapshotId": "127d12c39799516cbaf0dcfc4bc9339ee9ceba2d"
       },
       {
         "id": "policies-ad-standards-objectionable-content-child-sexual-exploitation-abuse-nudity",
@@ -34,9 +37,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3502783e1fb01b07e6e07a5f26e795488d709af4"
+        "snapshotId": "ff89972bb26f076d40e70b2c3af25f828b0e18f5"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-dangerous-orgs-individuals",
@@ -51,9 +57,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c8eb5ce522993ded91ded5a57a64572f2640f7f7"
+        "snapshotId": "2f9d2a3eb7d4ec9f0c098f90c07522eba1f80e29"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-coordinating-harm-and-promoting-crime",
@@ -68,9 +77,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "64f748798ccb6bb1113d628322511768110bfd5c"
+        "snapshotId": "8187c69456d5417b23e878acf6ac16dfaf5bc0f8"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-discriminatory-practices",
@@ -85,9 +97,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a3f789bdd1f8f593caf22e3c58eb5c900190d85f"
+        "snapshotId": "8926b90df0b0f3b42d33e413bb36cec9bf77e4cf"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-hateful-conduct",
@@ -102,9 +117,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6ff24e6c73c383e83018d07a52cdcff312efd699"
+        "snapshotId": "151e72cd32a5bc65e9d02851011ce61ec6eaa412"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-human-exploitation",
@@ -119,9 +137,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "de7bd566457f234ad9375bfa31a7645440eca225"
+        "snapshotId": "9b43d4cbf403fe020332724cec109f0842b50b07"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-locally-illegal-products-services",
@@ -136,9 +157,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f56edbd1b3185ddc46f6aa4a9ea2d49591a0d1f3"
+        "snapshotId": "71f759d3752c0679cc71fef39e7da0ac04de31e3"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-misinformation",
@@ -153,9 +177,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b34239b8e1c2cb5b6a511bd0913bd496b2424a3c"
+        "snapshotId": "38f79939313686d4e3ab6abe380233c95bd8b009"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-vaccine-discouragement",
@@ -170,9 +197,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fac76ebacd369a37c0f7752c3bb4ad4f9b4e8e99"
+        "snapshotId": "2a3d3a7a4b2471cc91c5f58826955c85b4023213"
       },
       {
         "id": "policies-ad-standards-deceptive-content-prohibited-commercial-practices",
@@ -187,9 +217,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "88b0f17de4030209cae914facb8dccfd9bd4e658"
+        "snapshotId": "89a7c72e66b3fc92191b2432fa6874d184263d6b"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-alcohol",
@@ -204,9 +237,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "16f8595b60cee08faa3ac318169e1248a7972d0f"
+        "snapshotId": "155125ecb95ff92ffac4096668fa96998cce017f"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-commercial-exploitation-of-crises-and-controversial-events",
@@ -221,9 +257,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b3bf22996ff5c54e203e74a5001b3cae0adb36be"
+        "snapshotId": "0d8806d4fa418f424b4376f82a024fcc816c60f4"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-dating-ads",
@@ -238,9 +277,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b20e355e0614693390bb64fba75fbac9199512db"
+        "snapshotId": "4c0e99b6ad17dbda0810e31290a478e92b1c15cb"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-hazardous-goods-materials",
@@ -255,9 +297,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "27347e60ba6d08ca75cc7b4bc58f9e4a0cde08c9"
+        "snapshotId": "945ef305cfc17cfcce15fe7ca9bb684316356e63"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-health-wellness",
@@ -272,9 +317,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b760ed4fba4cdd0cbe61a1d6430d194e96a26eaf"
+        "snapshotId": "9a0075d37bc3aaf83b43c16f65aea406f71ca68b"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-historical-artifacts",
@@ -289,9 +337,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "636b82703b6b805d5437994b19e25f6437149cf7"
+        "snapshotId": "247e10da4d53e2250eea4a4bfa90ae2f26b38a8f"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-bodily-parts-and-fluid",
@@ -306,9 +357,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "dad558e2a17be6dc4294a27e78aca0e01964184a"
+        "snapshotId": "bcf055f1ec0c370f51c1118038a36b1025089f27"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-live-endangered-nonendangered-animals",
@@ -323,9 +377,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "aec8bd5f0bd3d5e9196ccfef73b1376c1937643f"
+        "snapshotId": "94e57b76683fa1d3ebce5d9a2dd95f0c35bc616c"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-tobacco-related-products",
@@ -340,9 +397,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6a0bd2337fc79781f6cc3c15eae8a1c6aa6cbfa0"
+        "snapshotId": "7876e292de7fef7111458d3a86b198e9f407042d"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-weapons-ammunitions-explosives",
@@ -357,9 +417,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ff1d0e781f53d1590c0a74c93df9bc01afb01414"
+        "snapshotId": "ae5756f69107a122b798ccf3975dd0fe77278979"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-drugs-pharmaceuticals",
@@ -374,9 +437,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0c786fd2159902dabb3e1a17cf5b9394ddc6d5ff"
+        "snapshotId": "cc5043963c9ae21cc32b39fe1f489a956e9a5f48"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-drug-alcohol-addiction-treatment",
@@ -391,9 +457,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "936dec4f86aa2fe7ec9b4d94f6c91d3a950ff1ba"
+        "snapshotId": "7180796deb4c6155055033682d40b71bec1222c7"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-financial-services",
@@ -408,9 +477,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "989a9236c22da80e493b075d5c114986a9524bb7"
+        "snapshotId": "86b0abcf9c3ab7ae105f281765c727250358ce97"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-cryptocurrency-products-and-services",
@@ -425,9 +497,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "013944805cc63c72db8f74cebe2ff2fa91978711"
+        "snapshotId": "9abbcc6ef079a7e40e594bcfbf5333715bf880cb"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-gambling-games",
@@ -442,9 +517,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f63317baa64af758a47c74236298dd2eb0f959c4"
+        "snapshotId": "5da6f9af9611ef0eaba7bd1f16cbd170291f0a89"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-prohibited-documents-and-financial-services",
@@ -459,9 +537,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "994f8f53f4717275ddaeb680f641f04c70616b7f"
+        "snapshotId": "24e940fcd8710f54ab39274c88b34937175d667f"
       },
       {
         "id": "policies-ad-standards-objectionable-content-adult-nudity-and-sexual-activity",
@@ -476,9 +557,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "51251448a5829d8186c7e9ed0fa69faad34f068c"
+        "snapshotId": "60d85699a896f9d8fb0032351e082bf228bd35d3"
       },
       {
         "id": "policies-ad-standards-objectionable-content-adult-sexual-exploitation",
@@ -493,9 +577,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "62cc14a8da05fecef9d13144fa90c637239f036c"
+        "snapshotId": "8b43835a179a36838842f427310013a7d7627c06"
       },
       {
         "id": "policies-ad-standards-objectionable-content-adult-sexual-solicitation-and-sexually-explicit-language",
@@ -510,9 +597,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "17e48926f3f64da1a519f486c2e9441e68102108"
+        "snapshotId": "e76233d2b9dcd69c289b12b611a8d841143465f3"
       },
       {
         "id": "policies-ad-standards-objectionable-content-bullying-harassment",
@@ -527,9 +617,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b95a9244ae688054920a5038e6e65e420eadab47"
+        "snapshotId": "0f24c9ca1c800f4df77c146b2e0b8c95ec8c4136"
       },
       {
         "id": "policies-ad-standards-objectionable-content-profanity",
@@ -544,9 +637,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3807835680999d8f8ca78f760831c7491508d7db"
+        "snapshotId": "716dc824263ea29636cb3c00ee8ae65cc7e7c1fb"
       },
       {
         "id": "policies-ad-standards-objectionable-content-privacy-violations-personal-attributes",
@@ -561,9 +657,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "838ece38a7f9c11c34233cd8957cd070b115ef2b"
+        "snapshotId": "e497023403a8d1df0186730f2784c25dae7986f9"
       },
       {
         "id": "policies-ad-standards-objectionable-content-violent-graphic-content",
@@ -578,9 +677,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "54baf92e5b7ba70e2ce2c06e796c8dbde995f945"
+        "snapshotId": "a9a852ad863c6fe1f67ed66b7aaeae0b455ff5f0"
       },
       {
         "id": "policies-ad-standards-objectionable-content-suicide-selfinjury-eating-disorders",
@@ -595,9 +697,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2e048edd66970319e8eab19169cef6d9ffff369b"
+        "snapshotId": "f38039979dcd22ebb9aeaaef0d85cd258eda8157"
       },
       {
         "id": "policies-ad-standards-intellectual-property-infringement-third-party-infringement",
@@ -612,9 +717,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1b8bf42cbe8fa824d5efc9ab0e57c7ee02d6985e"
+        "snapshotId": "152293b7ce6ad9b842d6e11f13a13b98af6e994d"
       },
       {
         "id": "policies-ad-standards-intellectual-property-infringement-Using-Meta-Intellectual-Property-Licenses",
@@ -629,9 +737,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "aff4fa68aec8e9ea074b3e3cc2d60205f758ede0"
+        "snapshotId": "4d3609f40ee0fb3cc5917fa7262d6959c1ab2775"
       },
       {
         "id": "policies-ad-standards-SIEP-advertising-SIEP",
@@ -646,9 +757,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e2700e9cfa44e9d3a0e72d74c67810d2f0c7635f"
+        "snapshotId": "84de3794b15c1f83f3b1c43cbea7303d7aecee1b"
       },
       {
         "id": "policies-ad-standards-business-assets-account-integrity",
@@ -663,9 +777,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "135ce0fa59a530701d1f109194bdb053e84e8588"
+        "snapshotId": "c97248c0b211b3e4b425009f65f4f53fab1b46e4"
       },
       {
         "id": "policies-ad-standards-business-assets-inauthentic-behavior",
@@ -680,9 +797,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4d7b2ff15a97a5fae216f1433b2caa23291bcf14"
+        "snapshotId": "bcb313d874b8bdc6c6bddc1b2e918a6d70029e6c"
       },
       {
         "id": "policies-ad-standards-business-assets-Cybersecurity",
@@ -697,9 +817,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ec3118e391f602d7dd8b83f7b317e3f34ccac968"
+        "snapshotId": "bcb6136d91ad4bc935297b5d760f4c489a703be2"
       },
       {
         "id": "policies-ad-standards-business-assets-spam",
@@ -714,9 +837,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b99af68862056b9bc9e4f3b745f3ee55f39ef545"
+        "snapshotId": "670b167fc5f6c558429365a14396a2304cb4beb2"
       },
       {
         "id": "policies-ad-standards-business-assets-user-requests",
@@ -731,9 +857,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "024634dc61d9c3324e7bcd83abd438327fff545a"
+        "snapshotId": "878eef4fa449a86d9d25e5184453bc8ec4d2832c"
       },
       {
         "id": "policies-ad-standards-community-standards",
@@ -748,9 +877,12 @@
           "[aria-label=\"Video player\"]",
           "img[alt=\"\"]"
         ],
+        "filter": [
+          "removeChangeLogLabel"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d29a1f29e1f23dd402bcd1e4d85640b10581a056"
+        "snapshotId": "c0c027795ba472bfa29806013fb6a988e29a5d45"
       },
       {
         "id": "business-help-975570072950669",
@@ -777,7 +909,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4a2082f5c3fbc18fddeb5554afdd8a69f633ebc4"
+        "snapshotId": "6047c346f5815dfb2b792769561a4a54baa64118"
       },
       {
         "id": "business-help-399587795372584",
@@ -804,7 +936,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "90fb2a2a7667f827acb18065d4e88db7f926e9ab"
+        "snapshotId": "3f6c6e8a5ac625bc33c449e9bcf413aea7ccecce"
       }
     ]
   }
