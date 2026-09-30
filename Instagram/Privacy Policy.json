@@ -1,14 +1,14 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T22:49:18.569Z",
+    "date": "2026-09-30T10:48:26.280Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
         "id": "policy",
         "fetch": "https://privacycenter.instagram.com/policy",
         "select": [
-          "body"
+          "[id^=\"mount_\"]"
         ],
         "remove": [
           "img",
@@ -23,7 +23,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0827a77418b37a7e5ca451bbd591359b9cc6a90b"
+        "snapshotId": "acc6a74637570df81aa2f950ce63c9555f8454a8"
       }
     ]
   }
