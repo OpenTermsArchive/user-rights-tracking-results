@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:11:06.257Z",
+    "date": "2026-10-05T11:21:11.630Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ae63c5cf0d3c9b040d074dd1d0184c007a946afc"
+        "snapshotId": "8925daaa7362e8e6097d69b305c0a031b5db0072"
       },
       {
         "id": "safety-en-policies-and-engagement-community-principles",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7c7383acdf183f0a276be3c7d3a604b0b73d759c"
+        "snapshotId": "c35664efb2207ca785046e577713317918c006fc"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8d553b16d0221664f29561e5c2d9b2b2b0d1f684"
+        "snapshotId": "94b9210f71d65a7d6b44ff9ac5828fa3724ae854"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -62,7 +62,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a783b1ab380cd998846f36d1828cee9617107cf0"
+        "snapshotId": "77e9e7130089c321474e6b16d5c611e2a64f217f"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -77,7 +77,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "549ff8e372f5d55f619b7914b72428c1fe089bbf"
+        "snapshotId": "6aa8fea2b5d0321840dbd40598a3e594d25efd12"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b20e1387a7a896ba0585b5fa2c20fd4020066425"
+        "snapshotId": "3d26d631435981edd86856617dc1d3281400521b"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -107,7 +107,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "260072dc089b563f8a14c65558dfea893d8778d0"
+        "snapshotId": "03f8702001168958c3aaa98fe2f66d5bd64df61b"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -122,7 +122,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "81d124dd718706d8f06ee56cd13849fcd5bb5017"
+        "snapshotId": "377f35dad3708a5966757d926c94dfbbc795b46b"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -137,7 +137,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "96cfad9942dd5c2b7085931a629db49a0a5906d0"
+        "snapshotId": "fc18617802296208e8dfc94931b87731a4ed9466"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -152,7 +152,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6293800761a9838ef8cb2b563cd310f495b8c1c8"
+        "snapshotId": "cb8c86351aed200c84bee125ff2f01be8a4a151c"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -167,7 +167,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "aa5b446f1a43740d6c68627815d178233608f38e"
+        "snapshotId": "87176d12d6686903611a58a2226e67cc4a027f4c"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -182,8 +182,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a0d6059853c1805ca48a73a45d4ac4cb41ab404c"
+        "snapshotId": "4f450b2c899097c7e106e36fa4574e2231380ce8"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/accounts-features/'"
+      ]
+    }
   }
 }
