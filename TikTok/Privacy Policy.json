@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-08T23:20:34.262Z",
+    "date": "2026-10-09T11:21:56.981Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -11,8 +11,8 @@
         "remove": [
           ".lang-selection"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "049774fe49bfaaa3a2012853efa1641d3c7e98f6"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "legal-page-global-privacy-policy-for-younger-users-en",
@@ -31,13 +31,13 @@
         "remove": [
           ".lang-selection"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9bc48dae7b2790a5457cbd0aaee2d38c7ca1edfe"
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.tiktok.com/legal/page/global/privacy-policy-for-younger-users/en?region=IE'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.tiktok.com/legal/page/global/tiktok-ad-network-privacy-policy/en?region=IE'"
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.tiktok.com/legal/page/eea/privacy-policy/en?region=IE'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.tiktok.com/legal/page/global/privacy-policy-for-younger-users/en?region=IE'"
     ]
   }
 }
