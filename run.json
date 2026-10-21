@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-21T00:30:01.974Z",
-    "endDate": null,
+    "endDate": "2026-10-21T01:17:38.965Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "4713e2e3ba04d5decb397543c388b59cbe0097d9",
@@ -14,17 +14,22 @@
     "terms": 36
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 35,
+    "failed": 1
   },
   "coverage": {
-    "processed": 0,
+    "processed": 36,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": []
+    "reasonChanges": [
+      {
+        "serviceId": "TikTok",
+        "termsType": "Advertising Content Policy"
+      }
+    ]
   },
   "transientErrors": 0
 }
