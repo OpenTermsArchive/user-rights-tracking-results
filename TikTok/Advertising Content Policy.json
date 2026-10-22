@@ -1,134 +1,161 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-22T01:17:19.594Z",
+    "date": "2026-10-22T13:16:46.787Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
         "id": "help-article-tiktok-advertising-policies",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-advertising-policies?lang=en",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "44449cbce09315aef12b55ddc1b7c48ee155089f"
+        "snapshotId": "f5118afb3aa5db79a69c4ce1704da10f121de929"
       },
       {
         "id": "help-article-tiktok-ads-policy-ad-format-and-functionality",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-ad-format-and-functionality",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3c15059c73307d4bf744af3183f18c076e7e66dc"
+        "snapshotId": "1a145e13933a37b0d8548fa8106bb75456b815e0"
       },
       {
         "id": "help-article-tiktok-ads-policy-adult-content",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-adult-content",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a749f8d55284808eebac63fcd221e13c48b4f395"
+        "snapshotId": "ef4478aaf48a1f63d5c26daae819c7e7976ed8f2"
       },
       {
         "id": "help-article-tiktok-ads-policy-alcohol",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-alcohol",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "372db590f16a6d3889316529cce5a4b95e19d7fc"
+        "snapshotId": "ba18c8b738a286cfa173c44d75d4af0fe2b72be8"
       },
       {
         "id": "help-article-tiktok-ads-policy-animals-and-environment",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-animals-and-environment",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f6baf078431b436944c4cf09a4379f267ec2c4c1"
+        "snapshotId": "4d4b476266d59a5809ac0f7a8ccdd5468f413e15"
       },
       {
         "id": "help-article-tiktok-ads-policy-dangerous-products-or-services",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-dangerous-products-or-services",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a3f9d3ea078599f9fb46cac605e5e170687c6385"
+        "snapshotId": "f6321fc41cdaffabbf6a16da16a3776aef8b7f07"
       },
       {
         "id": "help-article-tiktok-ads-policy-deceptive-practices",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-deceptive-practices",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "15da08d7236c256c97fe69d0c4c625d23ee04197"
+        "snapshotId": "bf5b9991f53ff64ba0d747c54fed820a18e5e0ae"
       },
       {
         "id": "help-article-discrimination-harassment-bullying",
         "fetch": "https://ads.tiktok.com/help/article/discrimination-harassment-bullying",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cb4a7845252ef9a2b2f1e181a11f006e0c981834"
+        "snapshotId": "97ffc45287014d5ca379fba6e157d1e12bad9a66"
       },
       {
         "id": "help-article-tiktok-ads-policy-financial-services",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-financial-services",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "14089927ca10dcdc46d39433252c478f78bae5c7"
+        "snapshotId": "ab2c673c5fe4832f8728a1ca8443b1cac95ac8f0"
       },
       {
         "id": "help-article-tiktok-ads-policy-gambling-and-games",
@@ -141,149 +168,182 @@
           ".byted-breadcrumb",
           ".location-box"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "af30e6366b56965cbcc6656d1d92f0e78d1b4e03"
+        "snapshotId": "ab43307c1dd6cba0f8a473c7958c3e3d701d461e"
       },
       {
         "id": "help-article-tiktok-ads-policy-healthcare-pharmaceuticals",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-healthcare-pharmaceuticals",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bd0421fe20b492d9a0ec6d9c35c998445e431420"
+        "snapshotId": "37102a694082fefaf5a9d66545425f927353e4f1"
       },
       {
         "id": "help-article-tiktok-ads-policy-intellectual-property-infringement",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-intellectual-property-infringement",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fdfe2b57583cd823ea9143c423a6689f743549ca"
+        "snapshotId": "99ce83d19daf71deb8ae13a8120874d25073a35d"
       },
       {
         "id": "help-article-tiktok-ads-policy-misinformation",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-misinformation",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5132b31abd5207b95ecdba5cccccc511cbd29c04"
+        "snapshotId": "b5840a09c2f4ec5baf0d67c4bc15f9a7f7869897"
       },
       {
         "id": "help-article-tiktok-ads-policy-misleading-and-false-content",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-misleading-and-false-content",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "eb69ae090710eeedc589f10609d9f30bad8fb9fe"
+        "snapshotId": "1c2d304beafe51304c724c3766cca0e87d4bb7d4"
       },
       {
         "id": "help-article-tiktok-ads-policy-other-products-and-services",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-other-products-and-services",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7dadc8802044311ad4b0eff404f1857ce93630c4"
+        "snapshotId": "ca4c46baeb73e9c3e413253015e34bd0581a0e4d"
       },
       {
         "id": "help-article-tiktok-ads-policy-politics-government-and-elections",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-politics-government-and-elections",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7895a3bd84942776f408735c3f396a5cdf1e8016"
+        "snapshotId": "5c34488e1ad6ead62f068b265839fd91a99696ff"
       },
       {
         "id": "help-article-tiktok-ads-policy-suicide-and-self-harm",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-suicide-and-self-harm",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ebbdefc7123ac69bae7ad304356baceb3b5f3459"
+        "snapshotId": "49011a0f0c3264fd094b7ef43f88b26a766f65c8"
       },
       {
         "id": "help-article-tiktok-after-conversion-experience-policy",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-after-conversion-experience-policy",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1c13d4cbb19f235f0c00d464378d12ba307a4e93"
+        "snapshotId": "a4af923ca4ae322e3b2b685fc15a196278691ba4"
       },
       {
         "id": "help-article-tiktok-ads-policy-violence-and-dangerous-activities",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-violence-and-dangerous-activities",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4be73d95b2a4e93b12f67ed791acece14753b9aa"
+        "snapshotId": "55e15708407708a84890bf66b9d805093ffdb3e8"
       },
       {
         "id": "help-article-tiktok-ads-policy-weight-management",
         "fetch": "https://ads.tiktok.com/help/article/tiktok-ads-policy-weight-management",
-        "select": "html:not([data-n-head-ssr]) .article_wrapper_slug_center",
+        "select": ".article_wrapper_slug_center",
         "remove": [
           ".byted-breadcrumb",
           ".article_wrapper_slug_feedback_survey",
           "#embed-video-container",
           ".tt4b-renderer"
         ],
+        "filter": [
+          "normalizeLastUpdatedMonth"
+        ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3a1c25ec016d1fe6d111348a552332b13b8b866f"
+        "snapshotId": "60fd6998574bf1c0e89458bbbf2dee03f33396d5"
       }
     ]
   }
