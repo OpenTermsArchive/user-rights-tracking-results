@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-0344478d-8ab9-4995-8b1e-28babe97cc13",
+  "runId": "ota-run-08b1f16a-1668-4a6d-b0f0-1052beecf4ae",
   "collectionId": "user-rights",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-21T12:30:02.164Z",
-    "endDate": "2026-10-21T13:19:40.265Z",
+    "startDate": "2026-10-22T00:30:02.197Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "4713e2e3ba04d5decb397543c388b59cbe0097d9",
@@ -14,22 +14,17 @@
     "terms": 36
   },
   "tracked": {
-    "ok": 35,
-    "failed": 1
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 36,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "TikTok",
-        "termsType": "Advertising Content Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }
