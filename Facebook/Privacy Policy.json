@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T22:31:15.265Z",
+    "date": "2026-10-27T00:31:15.709Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -28,7 +28,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "03929d225447258257d5cffbd44ec7bc938dfd14"
+        "snapshotId": "9d2ac5452fbf2235fca4151d70b1ce9730eca298"
       },
       {
         "id": "privacy-genai",
@@ -53,7 +53,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "70f7f7563da2ba08e6ff568805356c5f2a697557"
+        "snapshotId": "2e2967c5618ea8a7467ca3e1d7e9b944bb5646ab"
       },
       {
         "id": "policies-other-policies-meta-ai-verification-terms",
@@ -63,21 +63,29 @@
         ],
         "remove": [
           "[role=\"navigation\"]",
-          "img[alt=\"\"]"
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "[role=\"tablist\"]",
+          "[aria-label=\"Video player\"]",
+          "img[alt=\"\"]",
+          "#user-experiences ~ *"
         ],
         "filter": [
+          "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
+              "h",
               "_nc_gid",
               "oh",
-              "h",
               "oe"
             ]
           }
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5084b61a4583443be8334ca8744835f836e693c6"
+        "snapshotId": "6eda4bc8f15947ecf68f1004dfb04871c0d3349d"
       },
       {
         "id": "legal-meta-AI-disclosures",
@@ -100,7 +108,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0fc2d09c903cbb70c043793a4e71e1f21a4c53c5"
+        "snapshotId": "1821398c653ca2b4375a35f0f50b4a91b9d5c9ed"
       }
     ]
   }
