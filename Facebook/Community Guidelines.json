@@ -1,13 +1,15 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T10:37:42.115Z",
+    "date": "2026-10-27T00:37:53.772Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
         "id": "policies-community-standards",
         "fetch": "https://transparency.meta.com/policies/community-standards/",
-        "select": "main",
+        "select": [
+          "main"
+        ],
         "remove": [
           "[role=\"navigation\"]",
           "[href=\"#user-experiences\"]",
@@ -20,6 +22,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -31,7 +34,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4f7a964315cd3d0fa851b49098c5094cdcd2fd3e"
+        "snapshotId": "1d77e35d7684133d8b5266633e9d1f5d113ab97b"
       },
       {
         "id": "policies-community-standards-violence-incitement",
@@ -51,6 +54,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -62,7 +66,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cb6c6eabebda02e094762aaaf940d4cff1bae09b"
+        "snapshotId": "82a8a8de79432c120d755ccc7a55ae3d00a49053"
       },
       {
         "id": "policies-community-standards-dangerous-individuals-organizations",
@@ -82,6 +86,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -93,7 +98,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "54485429c431d07ef0fa9b61f4f6e34c2b9b9bea"
+        "snapshotId": "74174498ba6adef1557006899d19b0dc7d21b777"
       },
       {
         "id": "policies-community-standards-coordinating-harm-publicizing-crime",
@@ -113,6 +118,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -124,7 +130,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "538de9a98c294768c9d3f5b1c0af4319a3133fcd"
+        "snapshotId": "626de5dc3f3c0bbb534b162d283844f8753015ae"
       },
       {
         "id": "policies-community-standards-regulated-goods",
@@ -144,6 +150,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -155,7 +162,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "015aa85b74035963f6545181062e63006cb829d2"
+        "snapshotId": "438a024c1c0eec3f4e3ab53fc746654e6c918891"
       },
       {
         "id": "policies-community-standards-prohibited-commercial-practices",
@@ -175,6 +182,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -186,7 +194,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d655de3bcde004d2580cfa9a920f922a065730f1"
+        "snapshotId": "e1db72e116cc9a066ce0b36c2a76316be613e4a9"
       },
       {
         "id": "policies-community-standards-suicide-self-injury",
@@ -206,6 +214,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -217,7 +226,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "45a150b17d878239ae336134134898df93f5bca6"
+        "snapshotId": "71ae8d86ba4117c3a192a58ccc93e8717cc883f7"
       },
       {
         "id": "policies-community-standards-child-sexual-exploitation-abuse-nudity",
@@ -237,6 +246,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -248,7 +258,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8247f738a4776ec6954eaf61e144ba3c869af425"
+        "snapshotId": "d566eb430694ad732b0c9e76c075caef157e67e6"
       },
       {
         "id": "policies-community-standards-sexual-exploitation-adults",
@@ -268,6 +278,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -279,7 +290,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e740a4ab65beb7d8875049387fa517e81896dac1"
+        "snapshotId": "857d69f01695e4a7e07e243e157383c8bd4bb485"
       },
       {
         "id": "policies-community-standards-bullying-harassment",
@@ -299,6 +310,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -310,7 +322,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b5cc29299bd4993392ebd4aeffb84ca8851b34a3"
+        "snapshotId": "50f4cfb6bbc65e73fa71e722ba5bc3ee0ad1274e"
       },
       {
         "id": "policies-community-standards-human-exploitation",
@@ -330,6 +342,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -341,7 +354,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0a3dfded8f99ca59d6a2cfc0565ef99fa457836f"
+        "snapshotId": "1c3b14f4d73755622323c1dac0f2b0b4c540f88f"
       },
       {
         "id": "policies-community-standards-privacy-violations-image-privacy-rights",
@@ -361,6 +374,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -372,7 +386,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "79bae21c987a090aa33545bbef538ffb4e8f3b28"
+        "snapshotId": "45ad01cf4661026d84df82d7c566d6fc52dbc030"
       },
       {
         "id": "policies-community-standards-hate-speech",
@@ -392,6 +406,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -403,7 +418,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "40bf6c62dffe7da0312f75d1085eecc2014af117"
+        "snapshotId": "812196d26317b914c3fa8e9abfa22a5d44357de8"
       },
       {
         "id": "policies-community-standards-violent-graphic-content",
@@ -423,6 +438,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -434,7 +450,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5526f482981d393c7da0d25af04a3b3985999e61"
+        "snapshotId": "dc0787b473478bd08e2dd5ee2af741b6b6dba1e5"
       },
       {
         "id": "policies-community-standards-adult-nudity-sexual-activity",
@@ -454,6 +470,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -465,7 +482,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e1fe2c20c8b4a08ca72df4cba31a6f082776b982"
+        "snapshotId": "136084bb599a3edb933f6c761f8d9c4a59bf8cda"
       },
       {
         "id": "policies-community-standards-sexual-solicitation",
@@ -485,6 +502,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -496,7 +514,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "50a1484cf90e94548b4cee70fce6967509f5f96b"
+        "snapshotId": "7aaf785ad3295ca91b37ad0272ed0233c604dc31"
       },
       {
         "id": "policies-community-standards-account-integrity",
@@ -516,6 +534,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -527,7 +546,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ac0ddbb8860fea7f11a0339518a70bc4f04dd3b2"
+        "snapshotId": "9c973fc0417238947e44e756a1e03f966e26a16c"
       },
       {
         "id": "policies-community-standards-authentic-identity-representation",
@@ -547,6 +566,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -558,7 +578,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6414ff82f5cd0b04fa8ed3b225b876400f50f2ce"
+        "snapshotId": "856badc0b35e4347a22078cbae0ae1322352c739"
       },
       {
         "id": "policies-community-standards-spam",
@@ -578,6 +598,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -589,7 +610,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "32d38242598ddfcdd87d4a5ed64ae220ae0d3f5c"
+        "snapshotId": "8fabd8c500e2f92d9440560225f2c19a2ab4ddaa"
       },
       {
         "id": "policies-community-standards-cybersecurity",
@@ -609,6 +630,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -620,7 +642,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "780dd93efafa979cdd08fefe134db97bc5ddcb4a"
+        "snapshotId": "3c19da86d10295261797bc80d537adb9588ccb0b"
       },
       {
         "id": "policies-community-standards-inauthentic-behavior",
@@ -640,6 +662,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -651,7 +674,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1800512b535ab078b934f3fdab5aa155c5b7e5f0"
+        "snapshotId": "4caed832b31cfb23cd8bb93caf367ee3809af655"
       },
       {
         "id": "policies-community-standards-misinformation",
@@ -671,6 +694,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -682,7 +706,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "88f4bbd09430624bb56125664addde9658fa2c84"
+        "snapshotId": "a3c9fca898ee3d3f8b651f687dad0292ba746914"
       },
       {
         "id": "policies-community-standards-memorialization",
@@ -702,6 +726,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -713,7 +738,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bb52f8a9d15d5c9ffbbd70c111ac49427a084f86"
+        "snapshotId": "8c96f2056da3a70347cfb86310c157ff8499675f"
       },
       {
         "id": "policies-community-standards-intellectual-property",
@@ -733,6 +758,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -744,7 +770,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "777568f2e6bbfea652ad724617eebee51611c4e4"
+        "snapshotId": "d66cd84b82a04d681a56556e79b5d5e470894101"
       },
       {
         "id": "policies-community-standards-meta-intellectual-property",
@@ -764,6 +790,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -775,7 +802,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9e03a480b32ea58a277463c87b671602ed0988cd"
+        "snapshotId": "761ab9293fc057ba539db3828033ea0d6d74e3a7"
       },
       {
         "id": "policies-community-standards-additional-protection-minors",
@@ -795,6 +822,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -806,7 +834,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "55cd1572fadbc2b1fcd65d3b94ca704303e17aa8"
+        "snapshotId": "02889bc38829442d076b1f52b985b022a96425d4"
       },
       {
         "id": "policies-community-standards-locally-illegal-products-services",
@@ -826,6 +854,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -837,7 +866,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c88c186ea77828499ac0868726955fbe718f94dc"
+        "snapshotId": "63d7011a572f221834aa8176a270644fc31595fa"
       },
       {
         "id": "policies-community-standards-user-requests",
@@ -857,6 +886,7 @@
         ],
         "filter": [
           "removeChangeLogLabel",
+          "addTrailingSlashToInternalLinks",
           {
             "removeQueryParams": [
               "h",
@@ -868,7 +898,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "69fad6f124d23cf00c544d8f1fcbcfe2b1a6a44d"
+        "snapshotId": "70c9bff56486e4625ca39e932daf9018311758a6"
       },
       {
         "id": "help-1257205004624246",
@@ -897,7 +927,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4b9a7e85fb94a165467391449e493abb7aded705"
+        "snapshotId": "217d584d0e940b730f9543833ce03c759a40ff9b"
       },
       {
         "id": "policies_center-pages_groups_events",
@@ -930,7 +960,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "026c3da0e904e960ef4b950442215dc873b978a8"
+        "snapshotId": "645c9d34c10c029b12de4bf0dda72f70db5da5eb"
       }
     ]
   }
