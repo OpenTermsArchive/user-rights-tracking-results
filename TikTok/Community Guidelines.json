@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-05T23:10:51.925Z",
+    "date": "2026-10-28T01:19:31.154Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8925daaa7362e8e6097d69b305c0a031b5db0072"
+        "snapshotId": "c693c671f3ef2bf692f27ac80ee2ae1b8e4948b5"
       },
       {
         "id": "safety-en-policies-and-engagement-community-principles",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c35664efb2207ca785046e577713317918c006fc"
+        "snapshotId": "b43dc0fbebb3b3d17b62e9edac5b7289f749b03d"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "94b9210f71d65a7d6b44ff9ac5828fa3724ae854"
+        "snapshotId": "c97b8090fe14ebcacf1a7ead272ac4e8eb82e84e"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -62,7 +62,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "77e9e7130089c321474e6b16d5c611e2a64f217f"
+        "snapshotId": "050998e1451985be893e516e93860008fb6b2b43"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -77,7 +77,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6aa8fea2b5d0321840dbd40598a3e594d25efd12"
+        "snapshotId": "8a6ba648bb490716eabc598ad54b71b076a89fe3"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3d26d631435981edd86856617dc1d3281400521b"
+        "snapshotId": "892142275aba655972ad3f3e0395196e14787ba7"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -107,7 +107,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "03f8702001168958c3aaa98fe2f66d5bd64df61b"
+        "snapshotId": "95ab9b6b498564e7c118d01a19d88c72b833bfdc"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -122,7 +122,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "377f35dad3708a5966757d926c94dfbbc795b46b"
+        "snapshotId": "e549c464b311308602451235390f0c679d5bc7f3"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -137,7 +137,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fc18617802296208e8dfc94931b87731a4ed9466"
+        "snapshotId": "a3ed9e9af7c58d6a66ffac9c4df2dfc8255cc233"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -152,7 +152,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cb8c86351aed200c84bee125ff2f01be8a4a151c"
+        "snapshotId": "0c0517388d248621b5f4d0ab31d113960e1e4c89"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -167,7 +167,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "87176d12d6686903611a58a2226e67cc4a027f4c"
+        "snapshotId": "ade8aeea9a03835b17fdb6b6e52b999b2534d1da"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -182,8 +182,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4f450b2c899097c7e106e36fa4574e2231380ce8"
+        "snapshotId": "ef98950539304ae014aac0ce0915dc4cacb91e7f"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/safety/en/policies-and-engagement/fyf-standards'"
+      ]
+    }
   }
 }
