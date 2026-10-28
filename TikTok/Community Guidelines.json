@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-28T01:19:31.154Z",
+    "date": "2026-10-28T13:09:40.153Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b43dc0fbebb3b3d17b62e9edac5b7289f749b03d"
+        "snapshotId": "f12e143bab28bba7ff67be62f94b868b9c5ef35e"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -122,7 +122,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e549c464b311308602451235390f0c679d5bc7f3"
+        "snapshotId": "fffe516bbe2153d67eeb01e11953238f6267ac6a"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -184,11 +184,6 @@
         "mimeType": "text/html",
         "snapshotId": "ef98950539304ae014aac0ce0915dc4cacb91e7f"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/safety/en/policies-and-engagement/fyf-standards'"
-      ]
-    }
+    ]
   }
 }
