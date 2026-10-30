@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:07:25.260Z",
+    "date": "2026-10-30T13:06:57.154Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -12,8 +12,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9eda99eb39a0ffc2a9cee98db484f73b080a33da"
+        "snapshotId": "c7e64d4462533d8e24faf9df5c0b4501fd63c7f3"
       },
       {
         "id": "terms-paid-features",
@@ -23,8 +24,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f952125bba48d1f580d86e73c1b4ae31d09c7b03"
+        "snapshotId": "d1d6a845fdc38d1ac6a6c9d33f227ca6543d75f6"
       },
       {
         "id": "terms-my-selfie",
@@ -34,8 +36,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "93cb9428a03bb331ba8f66908ba3f009cecaff81"
+        "snapshotId": "fab140a66f19f73f0fa911a5ae39e65322a89a6e"
       },
       {
         "id": "policies-pcd",
@@ -45,8 +48,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d6cba852d974c5117d60c8d614c9e2754f678202"
+        "snapshotId": "21f6fbe32029b48fc1be8fc6b4e7502259b5474f"
       },
       {
         "id": "terms-create-geofilter",
@@ -56,8 +60,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d08b28108a4f2ff6cfc04319aba4ca0e50dd5996"
+        "snapshotId": "c72f328635bf2bd27fe304cae7861219ad8ee100"
       },
       {
         "id": "terms-custom-creative-tools",
@@ -67,8 +72,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "41b7ff63f55f18c127caed0f05f0bba465de67e0"
+        "snapshotId": "57675d7f618b12bd306f40272d0ea5096cc2c0de"
       },
       {
         "id": "terms-lens-studio-terms",
@@ -78,8 +84,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "072e45087946d5b6622f905e35cccb19ba5c894f"
+        "snapshotId": "2f2c8ed6c884dd1930ffd7b685aab1f210c00a6f"
       },
       {
         "id": "terms-ai-tools",
@@ -89,8 +96,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5d386944e50a27f504be3d5252e4957d3f79008a"
+        "snapshotId": "7a2932145479ae30b7c46f6b51ed6541ff7d5f2a"
       }
     ]
   }
