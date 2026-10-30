@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:08:17.836Z",
+    "date": "2026-10-30T13:14:08.851Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -12,8 +12,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0ed8413a7b3dd46964a05b1730292cf09fc07326"
+        "snapshotId": "1326516e919dd358856a8738463d4c361a3c9b55"
       },
       {
         "id": "ad-policies-political",
@@ -23,8 +24,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "095f04e385fcfe366d528dca68229b0ceff110b6"
+        "snapshotId": "755766cbc798cfac4dfacbf921d55b9f2bd11e7e"
       }
     ]
   }
