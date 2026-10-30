@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:08:15.083Z",
+    "date": "2026-10-30T13:13:22.513Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -12,8 +12,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "67a7bc1867484cdcb9425e31d419b1e9fe614649"
+        "snapshotId": "7943b0ac01129829c1b947512487836fe30abbbf"
       }
     ]
   }
