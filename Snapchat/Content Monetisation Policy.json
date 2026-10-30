@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:08:16.515Z",
+    "date": "2026-10-30T13:13:45.607Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -12,8 +12,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cba4a47bc3885ab6e5d73d8e3bd53d9ba253dc6e"
+        "snapshotId": "06a0f4a21247553f56b7594f21cfcd512c0549ca"
       },
       {
         "id": "monetization-terms",
@@ -23,8 +24,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "164f01be54ba8793ae33b2ae947e55ce3065dabe"
+        "snapshotId": "813f5290448ca7089b63bd0ba7e75c6a9704fc27"
       }
     ]
   }
