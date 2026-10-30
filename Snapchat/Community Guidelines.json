@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:08:14.407Z",
+    "date": "2026-10-30T13:13:10.855Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -12,8 +12,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1262fcd98691f9a87f2213cef8c8300d13bee23c"
+        "snapshotId": "8155ec764b73abe698689cd4e24718de648c1b86"
       },
       {
         "id": "privacy-transparency-community-guidelines-severe-harm",
@@ -23,8 +24,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6df34d7006a5e58422338e58c0629d4f919095b4"
+        "snapshotId": "ba4c297703b5ff5484c2bae2cd61c120a35a1e55"
       },
       {
         "id": "privacy-transparency-community-guidelines-usernames-and-displaynames",
@@ -34,8 +36,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e26b8d766071c7d39377c27d83ea00270bbd3250"
+        "snapshotId": "f34eb81e1fc5516935e25f58e1f8fdf9eae08da7"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility",
@@ -45,8 +48,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0cce011a4e2a7efbe034772a7fc3e04057448c60"
+        "snapshotId": "4d45938462d170cc834eeb3689dcce071d9313fd"
       },
       {
         "id": "policy-policy-community-guidelines-sexual-content",
@@ -56,8 +60,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "002e468ffad1e197cbc9c651c54f069ff5cd77c0"
+        "snapshotId": "f2bb651176cdbbaaad4520a81142eac7757e1403"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-sexual-content",
@@ -67,8 +72,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7c1f82dbed46f764de15fdc6d119916434fa3e73"
+        "snapshotId": "0058a0ab7ff6de5f96e2e6a03787fa60f90611ff"
       },
       {
         "id": "policy-policy-community-guidelines-threats-violence-harm",
@@ -78,8 +84,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bc70b6093ba6f35882aa8dd93f25e3289b2cbb3b"
+        "snapshotId": "0687de6e187f72a33b9d108594ac1aa53cf9f9ec"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-disturbing-violent-content",
@@ -89,8 +96,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3f2aace4b4eb0499be3d5412377933426303ad7e"
+        "snapshotId": "2b43cfd58e6f658abeb9548e18155874897a81fc"
       },
       {
         "id": "policy-policy-community-guidelines-hateful-content-terrorism-violent-extremism",
@@ -100,8 +108,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2cf53bc7991ac59d1de2c04c86fa06b32b934596"
+        "snapshotId": "79ec378a3eda3674fc9d50401971fd497b84932a"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-hateful-content-terrorism-violent-extremism",
@@ -111,8 +120,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "17bc62bc4ca23633477118c19c3b6ff4e22873c7"
+        "snapshotId": "d353a8e0ede0dac3776c45d46b9f446e6fac796d"
       },
       {
         "id": "policy-policy-community-guidelines-harassment-bullying",
@@ -122,8 +132,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "962d8d2a41d1b3668a41544a3babd79674bc3ccc"
+        "snapshotId": "ac13022de3f09022c874b978d47fa30b0e236bde"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-harassment-bullying",
@@ -133,8 +144,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "01b0c9990060ba6b819e6b086516ac9319684b6f"
+        "snapshotId": "ee4c6e6dd4a4558123f50211bb9a866182a7ea5e"
       },
       {
         "id": "policy-policy-community-guidelines-illegal-regulated-activities",
@@ -144,8 +156,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8482ecdf6150bf7f1b9d22fb6defc88e96a612fb"
+        "snapshotId": "8a70b058e50e28008837375f6c2580721ae47d2e"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-illegal-regulated-activities",
@@ -155,8 +168,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bde65d2b7adbfc7faf68bdb709399e56c98e1ebf"
+        "snapshotId": "7caa2b1c33ef4ef4e2cb3a45e39d6659db468333"
       },
       {
         "id": "policy-policy-community-guidelines-harmful-false-deceptive-practices",
@@ -166,8 +180,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c168f9265c9fbfb0bf8846aa1dbdaffd77eec8f6"
+        "snapshotId": "71e191658fc5e981a5eaab2fb81fc651839bfeed"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-false-deceptive-information",
@@ -177,8 +192,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0e124b7657218e1ec13c55dcd16e080b1b29f345"
+        "snapshotId": "ae713bd6a7ea0b7feb2660d08bf371c9c9257dfc"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-commercial-content",
@@ -188,8 +204,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c6d9107ecf1bf9ba5afa906f1916d02f71dab6fa"
+        "snapshotId": "977bbd5db588b054965c613609820a81c8779623"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-quality",
@@ -199,8 +216,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "20e99e38f895979ae9df914587219f4f06fe0039"
+        "snapshotId": "36e86e0982a1aa4c034cef0a7239cad1d83304d1"
       },
       {
         "id": "policy-content-guidelines-recommendation-eligibility-recommendation-eligibility-public-interest-content",
@@ -210,8 +228,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c075119eef7669de02032ef0f3dc4e277150e3a2"
+        "snapshotId": "8e01b71a9a4f443d347df9e2f247f6c2aa611dad"
       }
     ]
   }
