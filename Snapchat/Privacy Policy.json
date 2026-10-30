@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:07:41.544Z",
+    "date": "2026-10-30T13:09:32.905Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -12,8 +12,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0b337574ea140b810f055ccba2340551afeb7a0e"
+        "snapshotId": "0d73945b8efbf3853f22f04e9b6c949522359889"
       },
       {
         "id": "privacy-privacy-principles",
@@ -23,8 +24,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5fab1c406a6339513a1bef8222eb4925ff28badd"
+        "snapshotId": "b8abf235e75d9e05f58827a045318b5a45b61fbc"
       },
       {
         "id": "privacy-privacy-by-product",
@@ -34,8 +36,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d9fef792f08fb6ed9895c28879f3095c58a848e1"
+        "snapshotId": "e9fa56464dc1339a260f84691cb2721647a36342"
       },
       {
         "id": "privacy-privacy-policy",
@@ -45,8 +48,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6ab44d526a1588112aa0bff7398df7ec6ade6344"
+        "snapshotId": "63971f01d4c50aaa40f964bdfec0b40c56964d01"
       },
       {
         "id": "privacy-your-information",
@@ -56,8 +60,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3700ec19b590b8f4238d245106034b0f42b1348d"
+        "snapshotId": "5fc24ee3537e4d0ed59a3f06be540043953cfb67"
       },
       {
         "id": "privacy-teens",
@@ -67,8 +72,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "84f5f05a0b0032fcb7c0f1bad6dc93aa53a7e838"
+        "snapshotId": "4ab93d4a8dec7d64c12ef17595dd525396281180"
       },
       {
         "id": "privacy-ads-privacy",
@@ -78,8 +84,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b67e974767827cfaeed98597c34944a213eb2363"
+        "snapshotId": "ca07ce0117e19be6a086c1c99a06e538acf28ad1"
       },
       {
         "id": "privacy-privacy-through-security",
@@ -89,8 +96,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c46dff813a7aaa678f6206dce0c40ac0501909cd"
+        "snapshotId": "10e11133aec6304b4b5dee82e2ce8316eb60898b"
       },
       {
         "id": "privacy-privacy-policy-spectacles-supplemental-privacy-policy",
@@ -100,8 +108,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f30c5aa979593accc0c010a4971845596604d6dc"
+        "snapshotId": "4e4c1ef3fc365d809a3b0bcf3e07e03f4ac465b1"
       },
       {
         "id": "privacy-privacy-policy-eea-uk-privacy-notice",
@@ -111,8 +120,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5a005f9c7c021e76f7b945d9b9c63ec4fcaaddc7"
+        "snapshotId": "9fd45f0dde7c9827640e5f66be1492dfc098d8af"
       },
       {
         "id": "terms-personal-data",
@@ -122,8 +132,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ba27fce21805a40d499d9790222d534566422b52"
+        "snapshotId": "23467a7882c4555f6e49b7b0238121adfd0f6a51"
       },
       {
         "id": "terms-standard-contractual-clauses",
@@ -133,8 +144,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b2d66eb99a4d3ad3daa61346cea7ae88d1b8b7da"
+        "snapshotId": "bcf8881403998b91658438a41667bb8e7414feb9"
       },
       {
         "id": "terms-eea-c-c-scc",
@@ -144,8 +156,9 @@
           "#summary",
           ".sdsm-media-wrapper"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bd3c0b3a503c1d40ccf9c731d5d4f070635cc95d"
+        "snapshotId": "725360da7dfdfe3d695026418258a1196318f09b"
       },
       {
         "id": "hc-en-gb-articles-22535044112532-Learn-About-How-Snap-Uses-Data",
@@ -154,8 +167,9 @@
         "remove": [
           ".breadcrumbs"
         ],
+        "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7fcd278d5c0fd6236e1c45f41a481d50956d1e52"
+        "snapshotId": "becf63269346571750537a67f8cf530c3db3110a"
       }
     ]
   }
