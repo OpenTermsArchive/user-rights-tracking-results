@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-05T01:28:15.494Z",
+    "date": "2026-11-05T13:17:27.755Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -79,7 +79,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "33d7e205f1bb7be1044a469b7e86dd384285104f"
+        "snapshotId": "8011087a5c21241c27b20460df40dc3505a60605"
       },
       {
         "id": "creator-academy-en-article-creator-code-of-conduct",
@@ -90,7 +90,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2425e6c499609a78fcfdbdba545a59bd714fe785"
+        "snapshotId": "ac3570f7256422d22c6c3f447cb537a43823ddf4"
       },
       {
         "id": "en-business-and-creator-creator-and-business-accounts-promoting-a-brand-product-or-service",
@@ -104,7 +104,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a1f5bd01f88ef374d97d6a19023232022f8444e1"
+        "snapshotId": "c215ba104c3aa0cd5a3bb426c29ee8b2761b1808"
       },
       {
         "id": "en-business-and-creator-creator-and-business-accounts-commercial-use-of-music-on-tiktok",
@@ -118,13 +118,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1e1b668199699908b26ee7453935ce90aae45a11"
+        "snapshotId": "3ca4bc6a33cfccac1b6e1bcb1e3f0315e30b870c"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service'"
-      ]
-    }
+    ]
   }
 }
