@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:12:55.674Z",
+    "date": "2026-11-05T01:28:15.494Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -13,7 +13,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5991a52908f7ee87ebcda70209af6c94b72f718e"
+        "snapshotId": "50748e45db54fa3f998ac79e12085a03fb41c6f4"
       },
       {
         "id": "legal-page-eea-virtual-items-en",
@@ -24,7 +24,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3e3737a6a28668f28ee97cc5e9550de58da2b0ec"
+        "snapshotId": "d825ca0a046979253de4d9ef6a84d9a6de6c88fb"
       },
       {
         "id": "legal-page-global-tiktok-creator-rewards-program-eea-en",
@@ -35,7 +35,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "379d0ab6ebe515dc72ab7699b6dee990f3dd3704"
+        "snapshotId": "6802665c59c5a5cbb359752e32ed2d777e2f2f25"
       },
       {
         "id": "legal-page-global-tiktok-creativity-program-beta-terms-eea-en",
@@ -46,7 +46,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a02645e68a831691dfb7a9d438c9883bc99f23f1"
+        "snapshotId": "a1856e2f7135e16972746c5278023f80704d60ff"
       },
       {
         "id": "legal-page-global-bc-policy-en",
@@ -57,7 +57,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c6550c7cb18c59b83a2fba48af74ad1a3a354c3d"
+        "snapshotId": "27b0ddc1aa1321b52f8263f07270c28c564d2174"
       },
       {
         "id": "legal-page-global-tiktok-creator-fund-terms-eu-en",
@@ -68,7 +68,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "477aa3b256a94e5d109bdc7912bd41fb4aa9a885"
+        "snapshotId": "d590e828b3fba7672b5deaeba421bbfecbf3a4bf"
       },
       {
         "id": "live-creators-en-US-rules_and_guidance-live_monetization_guidelines",
@@ -79,7 +79,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bbf7b0973097bb397146d8f4baa14c6d06c1d04b"
+        "snapshotId": "33d7e205f1bb7be1044a469b7e86dd384285104f"
       },
       {
         "id": "creator-academy-en-article-creator-code-of-conduct",
@@ -90,7 +90,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b3515d43b0b042ba8f85e96a2793ae4e5d9ca431"
+        "snapshotId": "2425e6c499609a78fcfdbdba545a59bd714fe785"
       },
       {
         "id": "en-business-and-creator-creator-and-business-accounts-promoting-a-brand-product-or-service",
@@ -104,7 +104,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e6400b6780b01f26879b5e5672c688998859de7d"
+        "snapshotId": "a1f5bd01f88ef374d97d6a19023232022f8444e1"
       },
       {
         "id": "en-business-and-creator-creator-and-business-accounts-commercial-use-of-music-on-tiktok",
@@ -118,8 +118,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3feea6e391dfdbf612e6dfca4e1aeca14352c286"
+        "snapshotId": "1e1b668199699908b26ee7453935ce90aae45a11"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service'"
+      ]
+    }
   }
 }
