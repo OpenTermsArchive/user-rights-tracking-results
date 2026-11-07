@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-11-06T01:26:27.819Z",
+    "date": "2026-11-07T01:09:23.634Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -19,7 +19,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "46fb94ad889ac79773c39fe37f77a025c2e132b6"
+        "snapshotId": "0cf181c76aa49740d6a9868e7cc7a9a78e2976c2"
       },
       {
         "id": "help-article-tiktok-ads-policy-ad-format-and-functionality",
@@ -36,7 +36,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7f01eaa74790d0a593fb708ba7c7a1fccbcd8110"
+        "snapshotId": "bcddf347f7745bd66c31fc3076d72ed9c946e7c9"
       },
       {
         "id": "help-article-tiktok-ads-policy-adult-content",
@@ -53,7 +53,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4e4c66654197d3ec627c25a69dba31aa78389307"
+        "snapshotId": "e5abd6387a8fff7c5b740491f657237796907530"
       },
       {
         "id": "help-article-tiktok-ads-policy-alcohol",
@@ -70,7 +70,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d65ab46de8006529dbd94fa66f29e6d8e3623863"
+        "snapshotId": "e669a3f5594854f527975b94e65691e726fa9bf3"
       },
       {
         "id": "help-article-tiktok-ads-policy-animals-and-environment",
@@ -87,7 +87,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7c0d262ef8a36c00b256b502d7a7eb62be3ac7e6"
+        "snapshotId": "37e83480f99ce5f269fe2f6449ea339d6c87019a"
       },
       {
         "id": "help-article-tiktok-ads-policy-dangerous-products-or-services",
@@ -104,7 +104,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c23e1993d754b19965a852ec095875d71f154461"
+        "snapshotId": "36a27f3dc0ceaf1de8ae16176037b517a7642afe"
       },
       {
         "id": "help-article-tiktok-ads-policy-deceptive-practices",
@@ -121,7 +121,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1acb9c12d065e7f80795ff7b53af718d5c43d08c"
+        "snapshotId": "e36c18a3f3b8f297862a2c5d45149a1911bb145e"
       },
       {
         "id": "help-article-discrimination-harassment-bullying",
@@ -138,7 +138,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9568aecf240e4541a4cf061c7b128272f4eaa9d8"
+        "snapshotId": "71eb39c0b665b9c92783580406bf366a1cd4c99a"
       },
       {
         "id": "help-article-tiktok-ads-policy-financial-services",
@@ -155,7 +155,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "97c92b49d0ed74aad59dfc65fb573c151d590345"
+        "snapshotId": "e7ae969ca29f033e20f442983659e05c6e9842ec"
       },
       {
         "id": "help-article-tiktok-ads-policy-gambling-and-games",
@@ -173,7 +173,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d0038d18edad708b799d535e28ca0811dfbf68e7"
+        "snapshotId": "d2bf531c2af0875f501744752f52e04adf726314"
       },
       {
         "id": "help-article-tiktok-ads-policy-healthcare-pharmaceuticals",
@@ -190,7 +190,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6f7d19882a0e5c82eb0995e183cf13d720fbaac1"
+        "snapshotId": "2d23da938be93d03b685d4c7688378a18aa9f8b9"
       },
       {
         "id": "help-article-tiktok-ads-policy-intellectual-property-infringement",
@@ -207,7 +207,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "efa8d3fe330afce5f371fbdddb071499a6d833d2"
+        "snapshotId": "abeafddb2085a8c0d7c8e2d0575f127cdfc31d4e"
       },
       {
         "id": "help-article-tiktok-ads-policy-misinformation",
@@ -224,7 +224,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d7e3d1b47959c3581b7485acc61ce305c2f26479"
+        "snapshotId": "1fc79a468fd18d0fa04ea684ee3ee02eb50d56b5"
       },
       {
         "id": "help-article-tiktok-ads-policy-misleading-and-false-content",
@@ -241,7 +241,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f3319ba55e3e39308fb57499ec9ca179888bd574"
+        "snapshotId": "fe2d0eae040766254fec56270d8e9e3e5972c5b0"
       },
       {
         "id": "help-article-tiktok-ads-policy-other-products-and-services",
@@ -258,7 +258,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ef34170bcf42b4f9522ff0471c1c76dbd0b5cc7f"
+        "snapshotId": "65bf86e6c9dc36429956e8272aa921eaecacd2aa"
       },
       {
         "id": "help-article-tiktok-ads-policy-politics-government-and-elections",
@@ -275,7 +275,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "edcf18906d222d8b1873d5d808029c63e41718c3"
+        "snapshotId": "622b93d63f64a605dafbc6cd2c0efa64ef37c7c0"
       },
       {
         "id": "help-article-tiktok-ads-policy-suicide-and-self-harm",
@@ -292,7 +292,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "758ed64a78ba03fe63a8adfbae32b58c050f37ee"
+        "snapshotId": "42d0b0bfe5f8fb61446ed7191f250539ac50009a"
       },
       {
         "id": "help-article-tiktok-after-conversion-experience-policy",
@@ -309,7 +309,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f0e08e6496f1b1c21b0879c82c631d6e97dfd685"
+        "snapshotId": "0b24ff804ef055eb6e06919cf8c62db2896c1a4d"
       },
       {
         "id": "help-article-tiktok-ads-policy-violence-and-dangerous-activities",
@@ -326,7 +326,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "531d7d66777862d584834c061983cfdd8a6dac21"
+        "snapshotId": "d9037a220dd633966d9c4d3c4a60e28e8ecc2fc8"
       },
       {
         "id": "help-article-tiktok-ads-policy-weight-management",
@@ -343,8 +343,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3d4202aa3790138ad474559104232ccf63dee3d4"
+        "snapshotId": "be5739b35c98456cad8303868ef86a16c8b0e369"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \".article_wrapper_slug_center\" has no match in the web page at 'https://ads.tiktok.com/help/article/tiktok-ads-policy-ad-format-and-functionality'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
