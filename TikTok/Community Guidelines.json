@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-28T13:09:40.153Z",
+    "date": "2026-11-09T01:18:03.604Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c693c671f3ef2bf692f27ac80ee2ae1b8e4948b5"
+        "snapshotId": "636c43a83594bae8b5e5861d950b41bee93ce13d"
       },
       {
         "id": "safety-en-policies-and-engagement-community-principles",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f12e143bab28bba7ff67be62f94b868b9c5ef35e"
+        "snapshotId": "27ec41981f53f42418054892e89e8c4216793510"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c97b8090fe14ebcacf1a7ead272ac4e8eb82e84e"
+        "snapshotId": "2e8eaadca631850c48e4ac1598145776bfd71fa2"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -62,7 +62,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "050998e1451985be893e516e93860008fb6b2b43"
+        "snapshotId": "12eb3bdd1a2c9c38292f0c7eb9e254a2e5ad028e"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -77,7 +77,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8a6ba648bb490716eabc598ad54b71b076a89fe3"
+        "snapshotId": "6b0a15456b06369409c9b288815330c0e3f9e8bc"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "892142275aba655972ad3f3e0395196e14787ba7"
+        "snapshotId": "7ba6843ac66cafdbc15b6431368bfba6d5283e80"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -107,7 +107,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "95ab9b6b498564e7c118d01a19d88c72b833bfdc"
+        "snapshotId": "05a4ebc688b81d700503ae3367dfcb29010db27c"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -122,7 +122,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fffe516bbe2153d67eeb01e11953238f6267ac6a"
+        "snapshotId": "ad32b8756a6a5af807a4030a14b0d0c202d542d1"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -137,7 +137,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a3ed9e9af7c58d6a66ffac9c4df2dfc8255cc233"
+        "snapshotId": "a04a5c9a0d7bbe89fc4a072cb157d307cf0d3f4b"
       },
       {
         "id": "safety-en-policies-and-engagement-fyf-standards",
@@ -152,7 +152,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0c0517388d248621b5f4d0ab31d113960e1e4c89"
+        "snapshotId": "322c081049ec77efcec84d46a04208ae29494f7b"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -167,7 +167,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ade8aeea9a03835b17fdb6b6e52b999b2534d1da"
+        "snapshotId": "559b6d16a58aa86d1869d3b0cb18d7b07a91af36"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -182,8 +182,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ef98950539304ae014aac0ce0915dc4cacb91e7f"
+        "snapshotId": "f0c5352ee38962c7289879110a554d716e172975"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/safety/en/policies-and-engagement/youth-safety'"
+      ]
+    }
   }
 }
