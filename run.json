@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-10T00:30:02.940Z",
-    "endDate": null,
+    "endDate": "2026-11-10T01:26:44.170Z",
     "engineVersion": "17.0.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "736ed9a4a17fb6a27f00c517ecf2c07e9aab5784",
@@ -14,11 +14,11 @@
     "terms": 36
   },
   "tracked": {
-    "ok": 0,
+    "ok": 36,
     "failed": 0
   },
   "coverage": {
-    "processed": 0,
+    "processed": 36,
     "skipped": []
   },
   "transitions": {
