@@ -1,41 +1,28 @@
 {
-  "runId": "ota-run-f60bc1a4-c288-4999-a38f-00de1753fb2e",
+  "runId": "ota-run-10138b0c-8612-44a3-9c3a-49c4adff3b20",
   "collectionId": "user-rights",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-10T12:30:02.401Z",
-    "endDate": "2026-11-10T13:05:24.452Z",
-    "engineVersion": "17.0.0",
-    "status": "completed"
+    "startDate": "2026-11-11T00:30:02.631Z",
+    "endDate": null,
+    "engineVersion": "17.0.1",
+    "status": "in_progress"
   },
   "declarations": {
-    "commit": "736ed9a4a17fb6a27f00c517ecf2c07e9aab5784",
+    "commit": "c74e432d5aac7bb87b59698fde8e3927f7418a21",
     "services": 6,
     "terms": 36
   },
   "tracked": {
-    "ok": 33,
-    "failed": 3
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 36,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Facebook",
-        "termsType": "Advertising Content Policy"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Advertising Content Policy"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
     "reasonChanges": []
   },
