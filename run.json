@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-13T12:30:03.192Z",
-    "endDate": null,
+    "endDate": "2026-11-13T13:21:04.795Z",
     "engineVersion": "17.0.1",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "c74e432d5aac7bb87b59698fde8e3927f7418a21",
@@ -14,15 +14,24 @@
     "terms": 36
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 34,
+    "failed": 2
   },
   "coverage": {
-    "processed": 0,
+    "processed": 36,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
+    "newFailures": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Advertising Content Policy"
+      },
+      {
+        "serviceId": "TikTok",
+        "termsType": "Advertising Content Policy"
+      }
+    ],
     "recoveries": [],
     "reasonChanges": []
   },
