@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-fa179e53-a67b-4f9e-8cbc-b6bbb40357c3",
+  "runId": "ota-run-4303c38c-aeab-4dec-aa2d-3e2138cb2cbb",
   "collectionId": "user-rights",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-13T12:30:03.192Z",
-    "endDate": "2026-11-13T13:21:04.795Z",
+    "startDate": "2026-11-14T00:30:02.779Z",
+    "endDate": null,
     "engineVersion": "17.0.1",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "c74e432d5aac7bb87b59698fde8e3927f7418a21",
@@ -14,24 +14,15 @@
     "terms": 36
   },
   "tracked": {
-    "ok": 34,
-    "failed": 2
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 36,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Advertising Content Policy"
-      },
-      {
-        "serviceId": "TikTok",
-        "termsType": "Advertising Content Policy"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
     "reasonChanges": []
   },
