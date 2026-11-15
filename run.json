@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-15T00:30:03.008Z",
-    "endDate": null,
+    "endDate": "2026-11-15T01:10:45.202Z",
     "engineVersion": "17.0.1",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "c74e432d5aac7bb87b59698fde8e3927f7418a21",
@@ -14,15 +14,28 @@
     "terms": 36
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 33,
+    "failed": 3
   },
   "coverage": {
-    "processed": 0,
+    "processed": 36,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
+    "newFailures": [
+      {
+        "serviceId": "Facebook",
+        "termsType": "Advertising Content Policy"
+      },
+      {
+        "serviceId": "Instagram",
+        "termsType": "Community Guidelines"
+      },
+      {
+        "serviceId": "Instagram",
+        "termsType": "Advertising Content Policy"
+      }
+    ],
     "recoveries": [],
     "reasonChanges": []
   },
