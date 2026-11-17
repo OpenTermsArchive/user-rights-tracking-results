@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-17T00:51:04.330Z",
+    "date": "2026-11-17T12:39:07.671Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -33,8 +33,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "c12a32240a3157375ff045df0b5c2257aca48b37"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-violence-incitement",
@@ -65,8 +65,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e3ce8ff4629037481000a5f36c2c28536c0af87f"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-dangerous-individuals-organizations",
@@ -97,8 +97,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "966336b6b4f412aeeaf7a5c6bc6fc31679aa8e21"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-coordinating-harm-publicizing-crime",
@@ -129,8 +129,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e6b75b288b1d8718b64eac254b4d69f2952ab4b7"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-regulated-goods",
@@ -161,8 +161,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "9e262a0f6b4dc7b2abc25c93e1ccf2f8b4db06db"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-prohibited-commercial-practices",
@@ -193,8 +193,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "873b9e835df34dd40910bdf5bd05c145ad6c2af5"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-suicide-self-injury",
@@ -225,8 +225,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "6025da842b0dc6e53e8866934a5cabdd01ddf0e0"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-child-sexual-exploitation-abuse-nudity",
@@ -257,8 +257,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "0093c28b9cd4c0a96fba31d22b80c40b431c256c"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-sexual-exploitation-adults",
@@ -289,8 +289,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "7fc4ce02bf19307c8429b76273fe648ac46ecec3"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-community-standards-bullying-harassment",
@@ -902,6 +902,15 @@
       }
     ],
     "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/violence-incitement/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/dangerous-individuals-organizations/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/coordinating-harm-publicizing-crime/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/regulated-goods/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/prohibited-commercial-practices/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/suicide-self-injury/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/child-sexual-exploitation-abuse-nudity/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/sexual-exploitation-adults/'",
       "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/bullying-harassment/'",
       "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/human-exploitation/'",
       "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/community-standards/privacy-violations-image-privacy-rights/'",
