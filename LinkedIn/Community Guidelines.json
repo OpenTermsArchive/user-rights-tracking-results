@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:06:53.732Z",
+    "date": "2026-11-17T00:54:04.640Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -17,8 +17,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "d85ca483bfc96fd97aae0b6139b527e2301354b8"
+        "snapshotId": "63963df6c6bdb42903b174e15da14b66daf1cb51"
       },
       {
         "id": "help-linkedin-answer-a1342754",
@@ -33,8 +36,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "305171a9f82ea37260e7cd1d9c4cdb3aabb65328"
+        "snapshotId": "4e99dcb02db15631dc1859cde62400c3dff4fa9b"
       },
       {
         "id": "help-linkedin-answer-137369",
@@ -49,8 +55,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "2d07e6ead997175c66681a89051594a4694d0b90"
+        "snapshotId": "86191c34ec23af807cc2503faf6fa1ad4dc8e744"
       },
       {
         "id": "help-linkedin-answer-137374",
@@ -65,8 +74,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "dac0078f60e40b0e2c337f2181db1a77d4ec2553"
+        "snapshotId": "6e5ff9865ba8467852bbc9495dc490c3ac36cbe4"
       },
       {
         "id": "help-linkedin-answer-137373",
@@ -81,8 +93,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "65435b245318301e1a623a0c8ca461f6bf018780"
+        "snapshotId": "fc9cbabc786247bc53d4e097b3ca77a4fe664818"
       },
       {
         "id": "help-linkedin-answer-137375",
@@ -97,8 +112,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "c347732a9bc3ee343c6c825e58134c1effe7068a"
+        "snapshotId": "6b8c624a6ed130318cf7b551c5c804433e015380"
       },
       {
         "id": "help-linkedin-answer-137371",
@@ -113,8 +131,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "f4e10e17811c5d4bd989d49276d1b925f14e3869"
+        "snapshotId": "0b43201686f353792b58c1fbdcff602f9d4d3fe9"
       },
       {
         "id": "help-linkedin-answer-a1377087",
@@ -129,8 +150,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "528ef7aa3cfd473b81d971e1fdb0638d8812085a"
+        "snapshotId": "c22585a28711a059081f3e20787dd04ee96bd081"
       },
       {
         "id": "help-linkedin-answer-137377",
@@ -145,8 +169,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "e7d8e72a489f46827afaaf4d11104e6feed38bbf"
+        "snapshotId": "f8ef9560dc0c887c85fbb417486b529b2d8c257b"
       },
       {
         "id": "help-linkedin-answer-137378",
@@ -161,8 +188,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "9e965642da8421a22c71fc7135d33871da74779b"
+        "snapshotId": "9b31ed4e8e4d0ed5e87f2f24dd34aca16e90cdd5"
       },
       {
         "id": "help-linkedin-answer-137370",
@@ -177,8 +207,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "fb111aad46221e01bb090828e3a7960a2d88b530"
+        "snapshotId": "1051d95d24d649e35962a03dbd03651925baa9b7"
       },
       {
         "id": "help-linkedin-answer-137376",
@@ -193,8 +226,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "09c80f2c34e39f2dcef130b88970bf36b9848c93"
+        "snapshotId": "b762db6516d6784623b9adf556f9df1801076a5e"
       },
       {
         "id": "help-linkedin-answer-137372",
@@ -209,8 +245,11 @@
           ".machine-translation",
           "[data-test-selector=\"relativeTime-container\"]"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "73b50f775a6d3f8140272d6e53303c4f2d2737f7"
+        "snapshotId": "898bc8eb913d5770e60a81ec5d728c8769c61957"
       }
     ]
   }
