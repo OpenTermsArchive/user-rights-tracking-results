@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:06:44.161Z",
+    "date": "2026-11-17T00:53:55.950Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -12,8 +12,11 @@
           ".banner__image-container",
           ".component-standaloneImage"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "8804f1b1b3ed464994d38ab39546415f16fe5d58"
+        "snapshotId": "22b0f2466a31a7d402e13fdd9443dcaca6705b44"
       },
       {
         "id": "legal-privacy-eu",
@@ -23,8 +26,11 @@
           ".banner__image-container",
           ".component-standaloneImage"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "a784b0e9d05d3bac1f0fede95ed1f4592385159c"
+        "snapshotId": "4fdb36148e79f178d75ed769283d7cfa33f37f48"
       }
     ]
   }
