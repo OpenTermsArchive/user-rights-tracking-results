@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-29T23:06:39.233Z",
+    "date": "2026-11-17T00:53:51.050Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -12,8 +12,11 @@
           ".banner__image-container",
           ".component-standaloneImage"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "39167136a422fb5ffe332c60137036d64314de76"
+        "snapshotId": "cb8f5c0211c8bab40a4fd21c5c8b531a17f22a65"
       },
       {
         "id": "legal-eula",
@@ -23,8 +26,11 @@
           ".banner__image-container",
           ".component-standaloneImage"
         ],
+        "filter": [
+          "moveBoldOutsideLinks"
+        ],
         "mimeType": "text/html",
-        "snapshotId": "c1f8026f1ee03eb8e78d215649c397270600821a"
+        "snapshotId": "ab399685b673e2a678770c407ae3e7ff4a0ba063"
       }
     ]
   }
