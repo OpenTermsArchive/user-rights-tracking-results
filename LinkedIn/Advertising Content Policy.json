@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T11:05:57.195Z",
+    "date": "2026-11-17T00:54:12.918Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -24,10 +24,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "b99bfcbc3e59657f0cf948f81c8a6278feb8d4d1"
+        "snapshotId": "743bbdbccaf034229db61ee4c361d373e26cc118"
       },
       {
         "id": "help-lms-answer-12412",
@@ -49,10 +50,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "279913d12c633bec481fc5947dbeeda801132c45"
+        "snapshotId": "dc76eb44ef82e4bf43846fcd25707363931940f7"
       },
       {
         "id": "help-lms-answer-a1592695",
@@ -74,10 +76,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "02f3961a0c5d456c7194cba93093bbe75ac2413b"
+        "snapshotId": "e7ed0f4c097cb2453e846035e8645cba167c7601"
       },
       {
         "id": "help-lms-answer-a8013156",
@@ -99,10 +102,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "2649579f9c7efb16d825eae2569d752e1d7634da"
+        "snapshotId": "1be0c520a3b8b1d13fb6c06801a9555310a5fa5f"
       },
       {
         "id": "help-lms-answer-a7125167",
@@ -124,10 +128,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "562c46c1fa983d295e6bb1c92d09a254b58f2f50"
+        "snapshotId": "a2e9e042d0786c00661f450b6cf31185d089565d"
       },
       {
         "id": "help-lms-answer-a1320991",
@@ -149,10 +154,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "53690f38c538036c728c91b77d5c4b5892a12984"
+        "snapshotId": "808dfbc7bb81b215cfe2357c43ffa6a1961b49e3"
       },
       {
         "id": "help-lms-answer-a9357023",
@@ -174,10 +180,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "23eaaedbf8cc3a43085f2c883e9dcb694a4cc75c"
+        "snapshotId": "064cbb7e6a6812ef6316dc52f1a4a0858d88ab01"
       },
       {
         "id": "help-lms-answer-a6238495",
@@ -199,10 +206,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "f0fc8c853f48f940a0550171f1a0ba014b00f667"
+        "snapshotId": "0c5e3be6b078e5e4689e47046490552a2184c102"
       },
       {
         "id": "help-lms-answer-a9401025",
@@ -224,10 +232,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "f4e8648774f2af6e66dcdc6d1a1c96e5dd594187"
+        "snapshotId": "2ff65f35edd09e26773927ddfacc234e736b6b92"
       },
       {
         "id": "help-lms-answer-a427089",
@@ -249,10 +258,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "4db130284f58734d700ea133a8bbf15fc582316e"
+        "snapshotId": "23e103889ab08e60cd7620ffd2a2b3c8b7b3dbee"
       },
       {
         "id": "help-lms-answer-a7171708",
@@ -274,10 +284,11 @@
               "e",
               "t"
             ]
-          }
+          },
+          "moveBoldOutsideLinks"
         ],
         "mimeType": "text/html",
-        "snapshotId": "909a926aac4502d9f71eb87a26f8acf3c417d5b2"
+        "snapshotId": "27a5fd79fab686a693f5843f3808aa9335fa3902"
       }
     ]
   }
