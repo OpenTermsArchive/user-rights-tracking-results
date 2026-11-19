@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-16T01:06:21.783Z",
+    "date": "2026-11-19T13:30:11.537Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "52cbd5805d775a941ac1efd5eecfe9d1716a4e27"
+        "snapshotId": "84133115c197f3848505d7c4fb53afe3ca8a23e7"
       },
       {
         "id": "safety-en-policies-and-engagement-community-principles",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "255aa84ed1080d22451566f154c8792fed70dfe6"
+        "snapshotId": "caaa165fca12109eb5658ab90cc5c2d355b798c0"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b42c04dcc538d8cf69f5f98f430ef025847a368a"
+        "snapshotId": "55634a3ea2a472c849396f4344de3d4634b5d9cc"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -167,7 +167,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1369cc3fbe7aaad807d9b086d714030b66f15811"
+        "snapshotId": "2011fba1c79a48508a0ca3a11c3e866f0be6d698"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -184,6 +184,12 @@
         "mimeType": "text/html",
         "snapshotId": "79ba1b8b6429c13bda4015736a0cc8e7f9b249bb"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/mental-behavioral-health/'",
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/privacy-security/'"
+      ]
+    }
   }
 }
