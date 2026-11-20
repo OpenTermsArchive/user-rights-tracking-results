@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-19T13:30:11.537Z",
+    "date": "2026-11-20T01:16:11.754Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "55634a3ea2a472c849396f4344de3d4634b5d9cc"
+        "snapshotId": "cfbf086d9502a8c2c3976913f2025a11ca9bc8bc"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -184,12 +184,6 @@
         "mimeType": "text/html",
         "snapshotId": "79ba1b8b6429c13bda4015736a0cc8e7f9b249bb"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/mental-behavioral-health/'",
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/privacy-security/'"
-      ]
-    }
+    ]
   }
 }
