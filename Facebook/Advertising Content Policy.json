@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-21T01:33:32.326Z",
+    "date": "2026-11-21T12:47:06.691Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -34,7 +34,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9b3e703fac4162f4eae06b78971dd1e077f37902"
+        "snapshotId": "30c78c7fa155be1d029f4d6d2ed3826c2d08e700"
       },
       {
         "id": "policies-ad-standards-objectionable-content-child-sexual-exploitation-abuse-nudity",
@@ -66,7 +66,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c7156708d840b6a25224322bd3908c0965b41095"
+        "snapshotId": "bccea559d42678462d898794f6732b71f3a3e74a"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-dangerous-orgs-individuals",
@@ -98,7 +98,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4a2e2b760f59ba53a2ae7bd9669993fbac344e43"
+        "snapshotId": "de89f2d05fbe05fc540bfdc51993eab520ff9bf8"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-coordinating-harm-and-promoting-crime",
@@ -130,7 +130,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2d0c516627ab89b4e98bde86d31fe151af181343"
+        "snapshotId": "ed9e0bb0f10d358aa47d57348696e5b684d6e8db"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-discriminatory-practices",
@@ -162,7 +162,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7bbd3ba4c9c5615a13a850b082b7ad2acb601407"
+        "snapshotId": "5783c4c655920055b20dc4970e781789d3e372d7"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-hateful-conduct",
@@ -194,7 +194,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "dadd44416b01eabc1bf84212c82bd36fd5ce2b1c"
+        "snapshotId": "e9dcca81b317a32fcdefa2853363cfbebd8ee140"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-human-exploitation",
@@ -226,7 +226,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1db0b437ed1e254fb8750a45d5ebd3e4fdcc472b"
+        "snapshotId": "532bc30833a13bef5a08ea73e48c4e821616a60e"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-locally-illegal-products-services",
@@ -258,7 +258,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0279691ebba1dabe3c481ad53271d61b9434d8a8"
+        "snapshotId": "788c51bf634ea1b7eecfafbb1f6973a1bbc55b25"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-misinformation",
@@ -290,7 +290,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8069ed3a9461384eac56db2227b07aceb9b142ed"
+        "snapshotId": "7983bb0a985cb1ff1e6ee2c15a55921515222d10"
       },
       {
         "id": "policies-ad-standards-unacceptable-content-vaccine-discouragement",
@@ -322,7 +322,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ddcd32c51ae29823d88476524d62a8aef54e5eb0"
+        "snapshotId": "f71444a4bfda69cee6cc03cce2f1d6c3df84ce92"
       },
       {
         "id": "policies-ad-standards-deceptive-content-prohibited-commercial-practices",
@@ -354,7 +354,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fc91982c2b9f9a2211db9db24b78b95113dd2f01"
+        "snapshotId": "0f80ab8acdaf6023a319c6c242000a80cbf54665"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-alcohol",
@@ -386,7 +386,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b98bf9ce4349ec091aae9cd996418035a0211984"
+        "snapshotId": "b6f0b459984f398d9f250d2c01b9f55749f36115"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-commercial-exploitation-of-crises-and-controversial-events",
@@ -418,7 +418,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "30985b723425f9cc4f90f8893a179569afdfafeb"
+        "snapshotId": "c6d9b7d457e926aa6c5bcece6359b3df4368a972"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-dating-ads",
@@ -450,7 +450,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9fa91b3060878ed543abf057cbf8007994241e95"
+        "snapshotId": "5d4c165d82d42f4c729195047a1484ba230fe3f9"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-hazardous-goods-materials",
@@ -482,7 +482,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b0ad338b15119a2fbf023b17eceee986669f99b7"
+        "snapshotId": "a36c58b19e70e62760c444ce5f79690e7fd12f6e"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-health-wellness",
@@ -514,7 +514,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "37360a9cd0d2e506209fa130aa12765e73636a79"
+        "snapshotId": "1a078d5ec651fe19430f5ec1be7123848aa92543"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-historical-artifacts",
@@ -546,7 +546,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "12f5df4e8984a6b67b20cb8a432fbde792ecbaa6"
+        "snapshotId": "8bc2093e483f020208664daa429e7ce7bbc01694"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-bodily-parts-and-fluid",
@@ -578,7 +578,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7f11f80f686415d270a5f73e74a70db4de6346db"
+        "snapshotId": "61fe600cc656decf5e7d9a52a5d8327647253b71"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-live-endangered-nonendangered-animals",
@@ -610,7 +610,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cac1f4a788e36cab9da0d343a4c074088c2e0210"
+        "snapshotId": "5f92cdc344ab367f457e4d02f31401726cb9cffd"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-tobacco-related-products",
@@ -642,7 +642,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d000fb4257c004e0ae23bab70fcf7d05c049813c"
+        "snapshotId": "6c83174c06d66a6f84124da78a576b7da72f3146"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-weapons-ammunitions-explosives",
@@ -674,7 +674,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c98e92c431dee2d067802bea57ed6039463c8e50"
+        "snapshotId": "6fb2c55b078f4a29c0bceb52e2b47069af4dc52e"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-drugs-pharmaceuticals",
@@ -706,7 +706,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0f19bdfa9ee1518494a8e6e9fac51ea733d2875c"
+        "snapshotId": "cb4e297af6e4222c3c715fe0c756b95ab75aad20"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-drug-alcohol-addiction-treatment",
@@ -738,7 +738,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "aa7abf0bd871adbe8ec04ceb9a8056caf244b810"
+        "snapshotId": "53775eb93aa8bf657dbb0205feed34aa3d216ea4"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-financial-services",
@@ -770,7 +770,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "08126bfd6b31777ffe602b6c010d9947978b390b"
+        "snapshotId": "0b33fd7ef70e67e619ee37ef2c19701bbb759105"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-cryptocurrency-products-and-services",
@@ -802,7 +802,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "53b8db6a3bd246f5573401fedf8104851f84245a"
+        "snapshotId": "babc34fa3e6a8e3f6cce4b21a68541c0c702740f"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-gambling-games",
@@ -834,7 +834,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "66eeaace987b5d0005b22ac3229b5f4b9a5908ad"
+        "snapshotId": "7d3d05e75894e1d0baa677877ff8806194882e70"
       },
       {
         "id": "policies-ad-standards-restricted-goods-services-prohibited-documents-and-financial-services",
@@ -866,7 +866,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5981f1049d9d3beee7f9acd0dc1a7ee6c81bf8c9"
+        "snapshotId": "1ca3d92fd8c6c9d9152380702d99fa3883c70e49"
       },
       {
         "id": "policies-ad-standards-objectionable-content-adult-nudity-and-sexual-activity",
@@ -898,7 +898,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1b1155c989975bab73522bba5655330bf1c0872a"
+        "snapshotId": "355fe7c097c3753cc92d521857d535b577e2c74e"
       },
       {
         "id": "policies-ad-standards-objectionable-content-adult-sexual-exploitation",
@@ -930,7 +930,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b7fb2deef4cb4b2c325da09e6836c69b9cd8553d"
+        "snapshotId": "bdbfa4f5a90160c3779d063b2fa02e51509f18b7"
       },
       {
         "id": "policies-ad-standards-objectionable-content-adult-sexual-solicitation-and-sexually-explicit-language",
@@ -962,7 +962,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "912725d00cb0b4d8923614c438a11092e92237d6"
+        "snapshotId": "99909e4fabfa202c80371bc67ef2e84d273c0db3"
       },
       {
         "id": "policies-ad-standards-objectionable-content-bullying-harassment",
@@ -994,7 +994,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8a3c9f850f9c75f10c229cb1944664e2b1ecb141"
+        "snapshotId": "26c0632c4d274891af046379ed2195666ff310d3"
       },
       {
         "id": "policies-ad-standards-objectionable-content-profanity",
@@ -1026,7 +1026,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5f9013dbf6bd77ad51da3be6736749e8c7a937fd"
+        "snapshotId": "d52beae5f0ea919398ec8faffdca4ebae2a9adcd"
       },
       {
         "id": "policies-ad-standards-objectionable-content-privacy-violations-personal-attributes",
@@ -1058,7 +1058,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f4567571043c4a573fc8fdf1fed6856624b25502"
+        "snapshotId": "ae23b1a8dda1cc76877bd95cc3ee72b980bcebf7"
       },
       {
         "id": "policies-ad-standards-objectionable-content-violent-graphic-content",
@@ -1090,7 +1090,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "93f6a0029397a033d77ace07cba783821c291205"
+        "snapshotId": "6b46b6fe9211154bc2e7b8f38a05fc35cd42c50b"
       },
       {
         "id": "policies-ad-standards-objectionable-content-suicide-selfinjury-eating-disorders",
@@ -1122,7 +1122,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ce857f1c0086c779126879f2a5838ffb85078f35"
+        "snapshotId": "77d46b5703a42099c1f9c64e28e2339791ea8fd1"
       },
       {
         "id": "policies-ad-standards-intellectual-property-infringement-third-party-infringement",
@@ -1154,7 +1154,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "73ce2af2a0d17f75f96912c2de919f3e1c3daef2"
+        "snapshotId": "95087b58b7cd2a6b24a39ca19e0847d139a53bde"
       },
       {
         "id": "policies-ad-standards-intellectual-property-infringement-Using-Meta-Intellectual-Property-Licenses",
@@ -1186,7 +1186,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e7a5cd53874d650190178cf5d319043b032aca59"
+        "snapshotId": "91a26db44bbb675f8e75c2ca0d827f19b0cfe164"
       },
       {
         "id": "policies-ad-standards-SIEP-advertising-SIEP",
@@ -1218,7 +1218,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "92e7c30f1a9c5acdf6fd38446efc69a58fa5a96f"
+        "snapshotId": "e9fc6a1ee6322bddce7ca2233756dea728915700"
       },
       {
         "id": "policies-ad-standards-business-assets-account-integrity",
@@ -1250,7 +1250,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "91244b451c427b8e055b6d4ea1289567f56706e8"
+        "snapshotId": "d225f05243922ae0917db72978c0c0cddf1fab7e"
       },
       {
         "id": "policies-ad-standards-business-assets-inauthentic-behavior",
@@ -1282,7 +1282,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fbfc283e5f5a17684f9b45102d260d900a0778f6"
+        "snapshotId": "e6b64a0e293bbaf6fc9eb06fa6e9d75bd8f8fc5c"
       },
       {
         "id": "policies-ad-standards-business-assets-Cybersecurity",
@@ -1314,7 +1314,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4a02218d0ab5b92dc5e0963b31abbf888732ab80"
+        "snapshotId": "7fb4478c0e8757106d5c4033231d31dfbaf03e0e"
       },
       {
         "id": "policies-ad-standards-business-assets-spam",
@@ -1346,7 +1346,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "aaae40ecb5efce14414865d06e98badbd560587c"
+        "snapshotId": "b9d03ec94530c9fea98148e918ddf87ee47ff05e"
       },
       {
         "id": "policies-ad-standards-business-assets-user-requests",
@@ -1378,7 +1378,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ec100a932ece55f61c65a0a32c797effb31cc557"
+        "snapshotId": "befffd3d4144bea7cae5c4e3646199ee33716352"
       },
       {
         "id": "policies-ad-standards-community-standards",
@@ -1410,7 +1410,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8a4be0e7497b828d887504edbaeda5d91d1c2fe3"
+        "snapshotId": "ca5c054e226cd63e0ecadd0ede02abb10550cf2b"
       },
       {
         "id": "business-help-975570072950669",
@@ -1437,7 +1437,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "215bc34215530c04b4b177c2d394c0c257b42475"
+        "snapshotId": "9422aa48febf6930798b335578bb5744b7f38118"
       },
       {
         "id": "business-help-399587795372584",
@@ -1464,13 +1464,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "93a2fc107b4c8ca498700038bfab8d07ad6ee8de"
+        "snapshotId": "354840d39b84253e47ea38b2392d8b6907a9b477"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 500 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/locally-illegal-products-services/'"
-      ]
-    }
+    ]
   }
 }
