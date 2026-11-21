@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-20T13:28:51.471Z",
+    "date": "2026-11-21T01:15:54.345Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -184,11 +184,6 @@
         "mimeType": "text/html",
         "snapshotId": "79ba1b8b6429c13bda4015736a0cc8e7f9b249bb"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/safety/en/policies-and-engagement/overview'"
-      ]
-    }
+    ]
   }
 }
