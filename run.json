@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-73d59ef3-2296-41a3-a061-4b65ec18aa6c",
+  "runId": "ota-run-5ab6cdab-d429-463f-8c7a-5d3e9529c509",
   "collectionId": "user-rights",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-22T00:30:02.826Z",
-    "endDate": "2026-11-22T00:57:57.622Z",
+    "startDate": "2026-11-22T12:30:02.980Z",
+    "endDate": null,
     "engineVersion": "17.0.1",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "5e78b2a746823e72f047297a26114fbbeab3bc66",
@@ -14,28 +14,15 @@
     "terms": 36
   },
   "tracked": {
-    "ok": 31,
-    "failed": 5
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 36,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Facebook",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "Facebook",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "Facebook",
-        "termsType": "Advertising Content Policy"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
     "reasonChanges": []
   },
