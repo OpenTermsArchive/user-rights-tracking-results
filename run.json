@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-22T00:30:02.826Z",
-    "endDate": null,
+    "endDate": "2026-11-22T00:57:57.622Z",
     "engineVersion": "17.0.1",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "5e78b2a746823e72f047297a26114fbbeab3bc66",
@@ -14,15 +14,28 @@
     "terms": 36
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 31,
+    "failed": 5
   },
   "coverage": {
-    "processed": 0,
+    "processed": 36,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
+    "newFailures": [
+      {
+        "serviceId": "Facebook",
+        "termsType": "Privacy Policy"
+      },
+      {
+        "serviceId": "Facebook",
+        "termsType": "Community Guidelines"
+      },
+      {
+        "serviceId": "Facebook",
+        "termsType": "Advertising Content Policy"
+      }
+    ],
     "recoveries": [],
     "reasonChanges": []
   },
