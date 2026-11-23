@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-23T00:58:57.201Z",
+    "date": "2026-11-23T12:38:46.677Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -34,7 +34,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d392dc6514345cdc1b05ca93ba7b33f6563c9bf7"
+        "snapshotId": "8158f1cdc6153d25124f3e13b74bfbb53690d331"
       },
       {
         "id": "policies-ad-standards-objectionable-content-child-sexual-exploitation-abuse-nudity",
@@ -65,8 +65,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "484f4aad3521365623211859860ca48c6ae95d5b"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-ad-standards-unacceptable-content-dangerous-orgs-individuals",
@@ -97,8 +97,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "005de32a86b05abeff243b6456f0cf6a620ef1a7"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-ad-standards-unacceptable-content-coordinating-harm-and-promoting-crime",
@@ -129,8 +129,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "76ffecedc10900998d4bfe3403d5efbf7bd063ff"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-ad-standards-unacceptable-content-discriminatory-practices",
@@ -161,8 +161,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "cd5312fbde9baa5cd88bb361e1658dc4b0ab6981"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-ad-standards-unacceptable-content-hateful-conduct",
@@ -193,8 +193,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "5562bc475d5bec06d69b0f1db584a7eb6f8f41a6"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-ad-standards-unacceptable-content-human-exploitation",
@@ -225,8 +225,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "58a50dabd41abc5f88fed417272915e88634fd4e"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "policies-ad-standards-unacceptable-content-locally-illegal-products-services",
@@ -1410,7 +1410,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "be3c676c1f6491da1725fc051ddb87b5788ed2a8"
+        "snapshotId": "78e12de8b5a17223445d06a58a72c3a3a3335839"
       },
       {
         "id": "business-help-975570072950669",
@@ -1437,7 +1437,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "313a261e94d4beb5f538b2c5949529843c06fd11"
+        "snapshotId": "f01188a2e6e04ac02b589939198265e060a8d824"
       },
       {
         "id": "business-help-399587795372584",
@@ -1464,10 +1464,16 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bd391da7f56f1cb560e55859ccc9e97db86269c8"
+        "snapshotId": "b43b44cac3f8c3a8e49e9f001c170e8a28829ca5"
       }
     ],
     "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/objectionable-content/child-sexual-exploitation-abuse-nudity/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/dangerous-orgs-individuals/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/coordinating-harm-and-promoting-crime/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/discriminatory-practices/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/hateful-conduct/'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/human-exploitation/'",
       "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/locally-illegal-products-services/'",
       "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/misinformation/'",
       "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/ad-standards/unacceptable-content/vaccine-discouragement/'",
