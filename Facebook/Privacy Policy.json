@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-23T12:30:40.826Z",
+    "date": "2026-11-24T00:30:51.533Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -28,7 +28,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "262ed8e92f55c2ad5a39a7e8f43e1af5d5b05c55"
+        "snapshotId": "a39f3e93f526b5a90a7913e836425d3f2003013e"
       },
       {
         "id": "privacy-genai",
@@ -53,7 +53,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bf72c19abbc1f5d48f245da5d841c86aed492964"
+        "snapshotId": "21828d30befcb8f3d245e0a5f31efdead708d9cd"
       },
       {
         "id": "policies-other-policies-meta-ai-verification-terms",
@@ -84,8 +84,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1764b654efe1f5c6ee3505d4810241b2381d3ec5"
       },
       {
         "id": "legal-meta-AI-disclosures",
@@ -108,11 +108,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0efc96a36ed63d31077411ab830ff0297b822617"
+        "snapshotId": "27922fa7d15eda1390c78dd8b56a701b5ec2f772"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://transparency.meta.com/policies/other-policies/meta-ai-verification-terms'"
     ]
   }
 }
